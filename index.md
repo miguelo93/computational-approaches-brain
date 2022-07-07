@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+This online event will bring together researchers with expertise in various areas such as complexity science, machine learning, as well as theoretical neuroscience & philosophy to explore different computational approaches in the study of brain functioning : 
 
-You can use the [editor on GitHub](https://github.com/miguelo93/computational-approaches-brain/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+1. What are those approaches essentially about? 
+2. What are major benefits & caveats? 
+3. Do different approaches speak to, complement, or contradict each other? 
+4. What would bring research in the computational sciences forward?
+5. What can bring progress into computational approaches to understand the brain?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Speakers
 
-### Markdown
+### Joseph Lizier
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Prof. Joseph Lizier is  Associate Professor in Complex Systems at the Univeristy of Sidney. His research focuses on information processing in nature, networks, neuro, etc.
 
-```markdown
-Syntax highlighted code block
+[Personal website](https://lizier.me/joseph/) | [twitter](https://twitter.com/jlizier) | [Google Scholar](https://scholar.google.com/citations?user=QJwapBoAAAAJ&hl=en)
 
-# Header 1
-## Header 2
-### Header 3
+### Romaine Brette
 
-- Bulleted
-- List
+Romain Brette is the Director in computational and theoretical neuroscience in the Institute de la vision, in Paris, where He leads the Computational neuroscience of sensory systems group. His main interests are neural modeling of perception, spike initiation, as well as epstemology of theoretical and computational neuroscience.
 
-1. Numbered
-2. List
+[Personal website](http://romainbrette.fr/) | [twitter](https://twitter.com/RomainBrette) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=lEHiPU4AAAAJ)
 
-**Bold** and _Italic_ and `Code` text
+### Gael Varoquax
 
-[Link](url) and ![Image](src)
-```
+Gael Varoquax is the Research Director of soda at Inria (National Institute for Research in Digital Science and Technology, in Paris). He's also the director of the [scikit-learn operations at Inria foundation](https://scikit-learn.fondation-inria.fr/home/). His research interests are on machine learning and public/mental health, cognition, and brain activity.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+[Personal website](https://gael-varoquaux.info/) | [twitter](https://twitter.com/gaelvaroquaux) | [Google Scholar](https://scholar.google.com/citations?user=OGGu384AAAAJ&hl=en)
 
-### Jekyll Themes
+### Konrad Kording
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/miguelo93/computational-approaches-brain/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Dr. Kording's research has one single focus, data that matters. Early research in the lab focused on computational neuroscience and in particular movement. But as the approaches matured, the focus has more been on discovering ways in which new data sources as well as emerging data analysis can enable awesome possibilities. The current focus is on Causality in Data science applications - how do we know how things work if we can not randomize? Our style of working is transdisciplinary, we collaborate on virtually every project.
 
-### Support or Contact
+[Personal website](http://koerding.com/) | [twitter](https://twitter.com/gaelvaroquaux) | [Google Scholar](https://scholar.google.com/citations?user=MiFqJGcAAAAJ&hl=en)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Jessica Flack
+
+Prof. Flack is a professor at Sante Fe Institute, New Mexico, where she runs Collective Computation Group. Her research focuses on evolutionary theory, cognitive neuroscience and behavior, statistical mechanics, information theory, dynamical systems and theoretical computer science to study the roles of information processing and collective computation in the emergence of robust structure and function in adaptive systems.
+
+[Personal website](https://c4.santafe.edu/) | [twitter](https://twitter.com/c4computation?lang=en) 
+
+### Melanie Mitchell
+
+Melanie Mitchell is the Davis Professor at the Santa Fe Institute. Her current research focuses on conceptual abstraction, analogy-making, and visual recognition in artificial intelligence systems. 
+
+[Personal website](https://melaniemitchell.me/) | [twitter](https://twitter.com/MelMitchell1) | [Google Scholar]([https://scholar.google.com/citations?user=MiFqJGcAAAAJ&hl=en](https://scholar.google.com/citations?user=4xK5uaQAAAAJ&hl=en))
