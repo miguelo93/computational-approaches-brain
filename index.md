@@ -1,7 +1,7 @@
-# <span style="color:blue">Rethinking computational approaches to the brain</span>
+# <span style="color:#392B58">Rethinking computational approaches to the brain</span>
 ### Fundamental challenges and future perspectives 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-#### 21st OCTOBER 2022 - Register Here !!
+#### <span style="color:#2D0320">21st OCTOBER 2022 - Register Here !!</span>
 
 This online event will bring together researchers with expertise in various areas such as complexity science, machine learning, as well as theoretical neuroscience & philosophy to explore different computational approaches in the study of brain functioning : 
 
@@ -11,7 +11,7 @@ This online event will bring together researchers with expertise in various area
 4. What would bring research in the computational sciences forward?
 5. What can bring progress into computational approaches to understand the brain?
 
-## Speakers
+## <span style="color:#645E9D">Speakers</span>
 
 ### Joseph Lizier
 
