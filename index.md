@@ -10,7 +10,7 @@ This online event will bring together researchers with expertise in various area
 
 ### Joseph Lizier
 
-Prof. Joseph Lizier is  Associate Professor in Complex Systems at the Univeristy of Sidney. His research focuses on information processing in nature, networks, neuro, etc.
+Prof. Joseph Lizier is an Associate Professor in Complex Systems at the Univeristy of Sidney, Australia, in the Complex Systems Research Group and Centre for Complex Systems. His research focuses on information processing in biological and bio-inspired complex networks, including in the computational neuroscience domain.
 
 [Personal website](https://lizier.me/joseph/) - [twitter](https://twitter.com/jlizier) - [Google Scholar](https://scholar.google.com/citations?user=QJwapBoAAAAJ&hl=en)
 
@@ -22,13 +22,13 @@ Romain Brette is the Director in computational and theoretical neuroscience in t
 
 ### Gael Varoquax
 
-Gael Varoquax is the Research Director of soda at Inria (National Institute for Research in Digital Science and Technology, in Paris). He's also the director of the [scikit-learn operations at Inria foundation](https://scikit-learn.fondation-inria.fr/home/). His research interests are on machine learning and public/mental health, cognition, and brain activity.
+Gael Varoquax is the Research Director of soda at Inria (National Institute for Research in Digital Science and Technology, in Paris). He's also the director of the [scikit-learn operations at Inria foundation](https://scikit-learn.fondation-inria.fr/home/). His research focuses on the use of machine learning in the public/mental health sector, and its potential in understanding cognition and brain activity.
 
 [Personal website](https://gael-varoquaux.info/) - [twitter](https://twitter.com/gaelvaroquaux) - [Google Scholar](https://scholar.google.com/citations?user=OGGu384AAAAJ&hl=en)
 
 ### Konrad Kording
 
-Dr. Kording's research has one single focus, data that matters. Early research in the lab focused on computational neuroscience and in particular movement. But as the approaches matured, the focus has more been on discovering ways in which new data sources as well as emerging data analysis can enable awesome possibilities. The current focus is on Causality in Data science applications - how do we know how things work if we can not randomize? Our style of working is transdisciplinary, we collaborate on virtually every project.
+Dr. Kording is a Penn Integrates Knowledge professor at University of Pennsylvania. Early research in the lab focused on computational neuroscience and in particular movement. The current focus is on Causality in Data science applications. Dr. Kording he's also interested in the question of how the brain solves the credit assignment problem and similarly how we should assign credit in the real world (through causality). 
 
 [Personal website](http://koerding.com/) - [twitter](https://twitter.com/gaelvaroquaux) - [Google Scholar](https://scholar.google.com/citations?user=MiFqJGcAAAAJ&hl=en)
 
