@@ -2,5 +2,5 @@ remote_theme: pages-themes/slate@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Rethinking computational approaches to the brain 
-description: fundamental challenges and future perspectives - 21st October 2022
+description: Fundamental challenges and future perspectives 
 show_downloads: false
