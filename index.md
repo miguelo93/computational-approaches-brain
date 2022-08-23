@@ -1,4 +1,4 @@
-# Rethinking computational approaches to the brain 
+# <span style="color:blue">Rethinking computational approaches to the brain</span>
 ### Fundamental challenges and future perspectives 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 #### 21st OCTOBER 2022 - Register Here !!
