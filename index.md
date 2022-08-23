@@ -1,3 +1,5 @@
+# Rethinking computational approaches to the brain 
+### Fundamental challenges and future perspectives 
 #### 21st OCTOBER 2022 - Register Here !!
 
 This online event will bring together researchers with expertise in various areas such as complexity science, machine learning, as well as theoretical neuroscience & philosophy to explore different computational approaches in the study of brain functioning : 
