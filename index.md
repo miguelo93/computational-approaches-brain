@@ -47,3 +47,12 @@ This online event will bring together researchers with expertise in various area
 
 [Personal website](https://melaniemitchell.me/) - [twitter](https://twitter.com/MelMitchell1) - [Google Scholar]([https://scholar.google.com/citations?user=MiFqJGcAAAAJ&hl=en](https://scholar.google.com/citations?user=4xK5uaQAAAAJ&hl=en))
 <br><br><br><br>
+##<span style="color:#2C1320">Schedule</span>
+##<span style="color:#2C1320">Organizers</span>
+The symposium is organized within the 'Sensation and Perception to Awareness: Leverhulme Doctoral Scholarship Programme' at the University of Sussex. As part of the programme, students are encouraged to lead research activities including seminar and conference organisation, backed by robust dedicated administrative support and funding. For this symposium the organizers are :
+### <span style="color:#5F4B66">Tomasz Korbak</span>
+asdasdsad
+### <span style="color:#5F4B66">Federico Micheli</span>
+asdasd
+### <span style="color:#5F4B66">Nadine Spychala</span>
+
