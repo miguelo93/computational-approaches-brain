@@ -43,6 +43,7 @@ This online event will bring together researchers with expertise in various area
 <br><br><br><br>
 ### <span style="color:#5F4B66">Melanie Mitchell</span>
 
-<img src="Konrad-Kording-expert-2021-408x452(1).jpg" alt="drawing" style="width:145px;height:200px;float:left; padding-right:20px; text-align:justify"/>Melanie Mitchell is the Davis Professor at the Santa Fe Institute. Her current research focuses on conceptual abstraction, analogy-making, and visual recognition in artificial intelligence systems. 
+<img src="MM2021.jpg" alt="drawing" style="width:145px;height:200px;float:left; padding-right:20px; text-align:justify"/>Melanie Mitchell is the Davis Professor at the Santa Fe Institute. Her current research focuses on conceptual abstraction, analogy-making, and visual recognition in artificial intelligence systems. 
 
 [Personal website](https://melaniemitchell.me/) - [twitter](https://twitter.com/MelMitchell1) - [Google Scholar]([https://scholar.google.com/citations?user=MiFqJGcAAAAJ&hl=en](https://scholar.google.com/citations?user=4xK5uaQAAAAJ&hl=en))
+<br><br><br><br>
