@@ -3,7 +3,7 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 #### <span style="color:#2C1320">21st OCTOBER 2022 - Register Here !!</span>
 <div align="center">
-<p align="center"><img align="center" src="logo1.png" style="width:300px;height:300px;"/></p>
+<p align="center"><img align="center" src="logo1.png" style="margin-left: 180px; width:300px;height:300px;"/></p>
 </div>
 
 
