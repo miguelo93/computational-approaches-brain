@@ -6,9 +6,8 @@
 <p align="center"><img align="center" src="logo1.png" style="margin-left: 180px; width:300px;height:300px;"/></p>
 </div>
 
-
 [Speakers](#speakers) - [Schedule](#schedule) - [Organizers](#organizers)
-<br>This online event will bring together researchers with expertise in various areas such as complexity science, machine learning, as well as theoretical neuroscience & philosophy to explore different computational approaches in the study of brain functioning : 
+<br><br>This online event will bring together researchers with expertise in various areas such as complexity science, machine learning, as well as theoretical neuroscience & philosophy to explore different computational approaches in the study of brain functioning : 
 
 1. What are those approaches essentially about? 
 2. What are major benefits & caveats? 
