@@ -14,10 +14,10 @@ This online event will bring together researchers with expertise in various area
 ## <span style="color:#2C1320">Speakers</span>
 
 ### <span style="color:#5F4B66">Joseph Lizier</span>
-<img src="index.png" alt="drawing" style="width:100px;height:50px"/>Prof. Joseph Lizier is an Associate Professor in Complex Systems at the Univeristy of Sidney, Australia, in the Complex Systems Research Group and Centre for Complex Systems. His research focuses on information processing in biological and bio-inspired complex networks, including in the computational neuroscience domain.
+<img src="index.png" alt="drawing" style="width:150px;height:200px;float:left; padding-right:20px"/>Prof. Joseph Lizier is an Associate Professor in Complex Systems at the Univeristy of Sidney, Australia, in the Complex Systems Research Group and Centre for Complex Systems. His research focuses on information processing in biological and bio-inspired complex networks, including in the computational neuroscience domain.
 
 [Personal website](https://lizier.me/joseph/) - [twitter](https://twitter.com/jlizier) - [Google Scholar](https://scholar.google.com/citations?user=QJwapBoAAAAJ&hl=en)
-
+<br><br><br>
 ### <span style="color:#5F4B66">Romaine Brette</span>
 
 Romain Brette is the Director in computational and theoretical neuroscience in the Institute de la vision, in Paris, where He leads the Computational neuroscience of sensory systems group. His main interests are neural modeling of perception, spike initiation, as well as epstemology of theoretical and computational neuroscience.
