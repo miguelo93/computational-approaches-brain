@@ -5,7 +5,8 @@
 <p align="center">
   <img src="logo1.png" style="width:300px;height:300px;"/>
 </p>
-[Speakers](https://miguelo93.github.io/computational-approaches-brain#Speakers) - [Schedule](https://miguelo93.github.io/computational-approaches-brain#Schedule) - [Organizers](https://miguelo93.github.io/computational-approaches-brain#Organizers)
+
+[Speakers](#speakers) - [Schedule](#schedule) - [Organizers](#organizers)<br>
 This online event will bring together researchers with expertise in various areas such as complexity science, machine learning, as well as theoretical neuroscience & philosophy to explore different computational approaches in the study of brain functioning : 
 
 1. What are those approaches essentially about? 
