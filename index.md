@@ -14,7 +14,7 @@ This online event will bring together researchers with expertise in various area
 ## <span style="color:#2C1320">Speakers</span>
 
 ### <span style="color:#5F4B66">Joseph Lizier</span>
-
+![Tux, the Linux mascot](/index.png)
 Prof. Joseph Lizier is an Associate Professor in Complex Systems at the Univeristy of Sidney, Australia, in the Complex Systems Research Group and Centre for Complex Systems. His research focuses on information processing in biological and bio-inspired complex networks, including in the computational neuroscience domain.
 
 [Personal website](https://lizier.me/joseph/) - [twitter](https://twitter.com/jlizier) - [Google Scholar](https://scholar.google.com/citations?user=QJwapBoAAAAJ&hl=en)
