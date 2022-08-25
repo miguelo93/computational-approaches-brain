@@ -31,7 +31,7 @@ This online event will bring together researchers with expertise in various area
 [Personal website](https://gael-varoquaux.info/) - [twitter](https://twitter.com/gaelvaroquaux) - [Google Scholar](https://scholar.google.com/citations?user=OGGu384AAAAJ&hl=en)
 
 ### <span style="color:#5F4B66">Konrad Kording</span>
-<img src="Konrad-Kording-expert-2021-408x452.jpg" alt="drawing" style="width:145px;height:200px;float:left; padding-right:20px"/>Dr. Kording is a Penn Integrates Knowledge professor at University of Pennsylvania. Early research in the lab focused on computational neuroscience and in particular movement. The current focus is on Causality in Data science applications. Dr. Kording he's also interested in the question of how the brain solves the credit assignment problem and similarly how we should assign credit in the real world (through causality). 
+<img src="Konrad-Kording-expert-2021-408x452(1).jpg" alt="drawing" style="width:145px;height:200px;float:left; padding-right:20px"/>Dr. Kording is a Penn Integrates Knowledge professor at University of Pennsylvania. Early research in the lab focused on computational neuroscience and in particular movement. The current focus is on Causality in Data science applications. Dr. Kording he's also interested in the question of how the brain solves the credit assignment problem and similarly how we should assign credit in the real world (through causality). 
 
 [Personal website](http://koerding.com/) - [twitter](https://twitter.com/gaelvaroquaux) - [Google Scholar](https://scholar.google.com/citations?user=MiFqJGcAAAAJ&hl=en)
 
