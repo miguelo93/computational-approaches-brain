@@ -2,11 +2,9 @@
 ### Fundamental challenges and future perspectives 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 #### <span style="color:#2C1320">21st OCTOBER 2022 - Register Here !!</span>
-<p align="center">
-  <img src="logo1.png" style="width:300px;height:300px;"/>
-</p>
+<p align="center"><img align="center" src="logo1.png" style="width:300px;height:300px;"/></p>
 
-[Speakers](#speakers) - [Schedule](#schedule) - [Organizers](#organizers)<br>
+<p align="center">[Speakers](#speakers) - [Schedule](#schedule) - [Organizers](#organizers)</p><br>
 This online event will bring together researchers with expertise in various areas such as complexity science, machine learning, as well as theoretical neuroscience & philosophy to explore different computational approaches in the study of brain functioning : 
 
 1. What are those approaches essentially about? 
