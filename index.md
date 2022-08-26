@@ -7,7 +7,7 @@
 
 [Speakers](#speakers) - [Schedule](#schedule) - [Organizers](#organizers)
 {: style="text-align: center;"}
-<br>This **online** event will bring together researchers with expertise in various areas such as complexity science, machine learning, as well as theoretical neuroscience & philosophy to explore different computational approaches in the study of brain functioning : 
+This **online** event will bring together researchers with expertise in various areas such as complexity science, machine learning, as well as theoretical neuroscience & philosophy to explore different computational approaches in the study of brain functioning : 
 
 1. What are those approaches essentially about? 
 2. What are major benefits & caveats? 
@@ -51,7 +51,7 @@ The event is organized within the "Sensation and Perception to Awareness: Leverh
 <img src="MM2021.jpg" alt="drawing" style="width:145px;height:200px;float:left; padding-right:20px; text-align:justify"/>Melanie Mitchell is the Davis Professor at the Santa Fe Institute. Her current research focuses on conceptual abstraction, analogy-making, and visual recognition in artificial intelligence systems. 
 
 [Personal website](https://melaniemitchell.me/) - [twitter](https://twitter.com/MelMitchell1) - [Google Scholar]([https://scholar.google.com/citations?user=MiFqJGcAAAAJ&hl=en](https://scholar.google.com/citations?user=4xK5uaQAAAAJ&hl=en))
-<br><br><br><br
+<br><br><br><br>
 ## <span style="color:#2C1320">Schedule</span>
 <style>
 .tablelines table, .tablelines td, .tablelines th {
@@ -71,7 +71,7 @@ The event is organized within the "Sensation and Perception to Awareness: Leverh
 {: .tablelines}
 
 ## <span style="color:#2C1320">Organizers</span>
-![sussuex](unilogo.png){: .logo}
+![sussuex](unilogo.png){: .logo}<br>
 The symposium is organized within the ['Sensation and Perception to Awareness: Leverhulme Doctoral Scholarship Programme'](https://www.sussex.ac.uk/sensation/) at the University of Sussex. As part of the programme, students are encouraged to lead research activities including seminar and conference organisation, backed by robust dedicated administrative support and funding. For this symposium the organizers are :
 ### <span style="color:#5F4B66">Tomasz Korbak</span>
 Tomasz is Polish
