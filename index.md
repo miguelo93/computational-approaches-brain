@@ -1,5 +1,5 @@
 # <span style="color:#2C1320">Rethinking Computational Approaches to the Brain</span>
-### Fundamental challenges and future perspectives 
+### Fundamental challenges and future perspectives -21st OCTOBER 2022
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 #### <span style="color:red">21st OCTOBER 2022 - Register Here !!</span>
 ![Logo](logo1.png){: .center-image}
@@ -7,7 +7,7 @@
 
 [Speakers](#speakers) - [Schedule](#schedule) - [Organizers](#organizers)
 {: style="text-align: center;"}
-<br><br>This online event will bring together researchers with expertise in various areas such as complexity science, machine learning, as well as theoretical neuroscience & philosophy to explore different computational approaches in the study of brain functioning : 
+<br>This **online** event will bring together researchers with expertise in various areas such as complexity science, machine learning, as well as theoretical neuroscience & philosophy to explore different computational approaches in the study of brain functioning : 
 
 1. What are those approaches essentially about? 
 2. What are major benefits & caveats? 
@@ -15,6 +15,7 @@
 4. What would bring research in the computational sciences forward?
 5. What can bring progress into computational approaches to understand the brain?
 
+The event is organized within the "Sensation and Perception to Awareness: Leverhulme Doctoral Scholarship Programme" at the Univeristy of Sussex. You can ind more info [here](#organizers)
 ## <span style="color:#2C1320">Speakers</span>
 
 ### <span style="color:#5F4B66">Joseph Lizier</span>
@@ -70,10 +71,11 @@
 {: .tablelines}
 
 ## <span style="color:#2C1320">Organizers</span>
-The symposium is organized within the 'Sensation and Perception to Awareness: Leverhulme Doctoral Scholarship Programme' at the University of Sussex. As part of the programme, students are encouraged to lead research activities including seminar and conference organisation, backed by robust dedicated administrative support and funding. For this symposium the organizers are :
+The symposium is organized within the ['Sensation and Perception to Awareness: Leverhulme Doctoral Scholarship Programme'](https://www.sussex.ac.uk/sensation/) at the University of Sussex. As part of the programme, students are encouraged to lead research activities including seminar and conference organisation, backed by robust dedicated administrative support and funding. For this symposium the organizers are :
 ### <span style="color:#5F4B66">Tomasz Korbak</span>
-asdasdsad
+Tomasz is Polish
 ### <span style="color:#5F4B66">Federico Micheli</span>
 asdasd
 ### <span style="color:#5F4B66">Nadine Spychala</span>
+Nadine is German
 
