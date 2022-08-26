@@ -71,7 +71,7 @@ The event is organized within the "Sensation and Perception to Awareness: Leverh
 {: .tablelines}
 
 ## <span style="color:#2C1320">Organizers</span>
-![sussuex](unilogo.png)
+![sussuex](unilogo.png){: .logo}
 The symposium is organized within the ['Sensation and Perception to Awareness: Leverhulme Doctoral Scholarship Programme'](https://www.sussex.ac.uk/sensation/) at the University of Sussex. As part of the programme, students are encouraged to lead research activities including seminar and conference organisation, backed by robust dedicated administrative support and funding. For this symposium the organizers are :
 ### <span style="color:#5F4B66">Tomasz Korbak</span>
 Tomasz is Polish
