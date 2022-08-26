@@ -2,7 +2,7 @@
 ### Fundamental challenges and future perspectives 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 #### <span style="color:red">21st OCTOBER 2022 - Register Here !!</span>
-![Logo](logo1.png){: style:"margin: 0 auto; display: block; width:300px; height:300px;" }
+![Logo](logo1.png){: .center-image}
 
 
 [Speakers](#speakers) - [Schedule](#schedule) - [Organizers](#organizers)
