@@ -52,6 +52,11 @@
 [Personal website](https://melaniemitchell.me/) - [twitter](https://twitter.com/MelMitchell1) - [Google Scholar]([https://scholar.google.com/citations?user=MiFqJGcAAAAJ&hl=en](https://scholar.google.com/citations?user=4xK5uaQAAAAJ&hl=en))
 <br><br><br><br
 ## <span style="color:#2C1320">Schedule</span>
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+        border: 1px solid black;
+        }
+</style>
 | TIME (GMT +00 - London) | Speaker          | Talk Title |
 |:-----------------------:|:----------------:|:----------:|
 |       2:30-3:00pm       | Joseph Lizier    | TBA        |
@@ -62,7 +67,7 @@
 |       5:00:5:30pm       | Jessica Flack    | TBA        |
 |       5:30-5:45pm       | Melanie Mitchell | TBA        |
 |       5:45-6:45pm       | PANEL DISCUSSION |            |
-
+{: .tablelines}
 
 ## <span style="color:#2C1320">Organizers</span>
 The symposium is organized within the 'Sensation and Perception to Awareness: Leverhulme Doctoral Scholarship Programme' at the University of Sussex. As part of the programme, students are encouraged to lead research activities including seminar and conference organisation, backed by robust dedicated administrative support and funding. For this symposium the organizers are :
