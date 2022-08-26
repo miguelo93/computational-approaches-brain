@@ -57,7 +57,7 @@
         border: 1px solid black;
         }
 </style>
-| TIME (GMT +00 - London) | Speaker          | Talk Title |
+| TIME (GMT +01 - London) | Speaker          | Talk Title |
 |:-----------------------:|:----------------:|:----------:|
 |       2:30-3:00pm       | Joseph Lizier    | TBA        |
 |       3:00-3:30pm       | Romaine Brette   | TBA        |
