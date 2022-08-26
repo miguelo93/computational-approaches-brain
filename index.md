@@ -1,12 +1,11 @@
-# <span style="color:#2C1320">Rethinking computational approaches to the brain</span>
+# <span style="color:#2C1320">Rethinking Computational Approaches to the Brain</span>
 ### Fundamental challenges and future perspectives 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 #### <span style="color:red">21st OCTOBER 2022 - Register Here !!</span>
-<div align="center">
-<p align="center"><img align="center" src="logo1.png" style="margin-left: 180px; width:300px;height:300px;"/></p>
-</div>
+![Logo](logo1.ong){: style:"margin: 0 auto; display: block; width:300px; height:300px;" }
 
 [Speakers](#speakers) - [Schedule](#schedule) - [Organizers](#organizers)
+{: style="text-align: center;"}
 <br><br>This online event will bring together researchers with expertise in various areas such as complexity science, machine learning, as well as theoretical neuroscience & philosophy to explore different computational approaches in the study of brain functioning : 
 
 1. What are those approaches essentially about? 
