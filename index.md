@@ -74,7 +74,7 @@ The event is organized within the "Sensation and Perception to Awareness: Leverh
 ![sussuex](unilogo.png){: .logo}<br>
 The symposium is organized within the ['Sensation and Perception to Awareness: Leverhulme Doctoral Scholarship Programme'](https://www.sussex.ac.uk/sensation/) at the University of Sussex. As part of the programme, students are encouraged to lead research activities including seminar and conference organisation, backed by robust dedicated administrative support and funding. For this symposium the organizers are :
 ### <span style="color:#5F4B66">Tomasz Korbak</span>
-Tomasz is Polish
+<img src="fotka.jpg" alt="drawing" style="width:145px;height:200px;float:left; padding-right:20px; text-align:justify"/>I’m a PhD student at the Department of Informatics, University of Sussex working on deep reinforcement learning and generative models with Chris Buckley and Anil Seth. I’m focusing on probabilistic approaches to control, such as active inference and control-as-inference, and controllable generative modelling.
 ### <span style="color:#5F4B66">Federico Micheli</span>
 asdasd
 ### <span style="color:#5F4B66">Nadine Spychala</span>
