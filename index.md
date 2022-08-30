@@ -19,7 +19,7 @@ The event is organized within the "Sensation and Perception to Awareness: Leverh
 ## <span style="color:#2C1320">Speakers</span>
 
 ### <span style="color:#5F4B66">Joseph Lizier</span>
-<img src="joseph.jpg" alt="drawing" style="width:200px;height:200px;float:left; padding-right:20px"/> 
+<img src="images/joseph.png" alt="drawing" style="width:200px;height:200px;float:left; padding-right:20px"/> 
 **Talk title:** "Enabling tools to model information processing in complex systems"
 
 **Abstract:** The space-time dynamics of interactions in complex systems are often described using terminology of information processing, or distributed computation, in particular with reference to information being stored, transferred and modified in these systems. In this talk, I will introduce an information-theoretic framework -- information dynamics -- that we use to model each of these operations on information within a complex system, and their dynamics in space and time. Not only does this framework quantitatively align with natural qualitative descriptions of information processing in neural and other systems, it provides multiple complementary perspectives on how, where and why a system is exhibiting complexity. Specifically, I will describe tools we have produced to enable quantitative analysis of such information processing, including both theoretical advances (such as how to measure information flows between spike trains) and software toolkits (including JIDT and IDTxl). I will focus specifically on the interaction between theory, enabling tools and applications, and how we have addressed methodological challenges at their intersection.
@@ -30,7 +30,7 @@ The event is organized within the "Sensation and Perception to Awareness: Leverh
 <br><br><br>
 ### <span style="color:#5F4B66">Romaine Brette</span>
 
-<img src="romain.jpg" alt="drawing" style="width:200px;height:200px;float:left; padding-right:20px"/>**Talk title:** "Computation in the brain"
+<img src="images/romain.png" alt="drawing" style="width:200px;height:200px;float:left; padding-right:20px"/>**Talk title:** "Computation in the brain"
 
 **Abstract:** It is often taken for granted that brains compute over neural representations. Traditionally, this means that properties of neural activity play the role of variables in correspondence with properties of things in the world, while brain processes play the role of algorithms that manipulate those variables. This claim is based on implicit assumptions, which require closer examination. The first one is that all behavior is computational. To the extent that “computational” is meaningful, this is false. The second one is neural reductionism: the idea that alleged psychological units (such as the percept of a face) must correspond to neurophysiological units (activity of specific neurons or groups of neurons), rather than to a mode of activity of the brain. The third one is that neural representations correspond to neurophysiological states, which can then be governed by computational processes. But neural representations are not brain states: they are experimental measurements of firing rates over an extended period after a presented stimulus; that is, they are already properties of brain processes. This confusion undermines the coherence of neurocomputationalism.
 
@@ -41,24 +41,24 @@ The event is organized within the "Sensation and Perception to Awareness: Leverh
 <br><br><br>
 ### <span style="color:#5F4B66">Gael Varoquax</span>
 
-<img src="gael.jpg" alt="drawing" style="width:200px;height:200px;float:left; padding-right:20px;text-align:justify"/>Gael Varoquax is the Research Director of soda at Inria (National Institute for Research in Digital Science and Technology, in Paris). He's also the director of the [scikit-learn operations at Inria foundation](https://scikit-learn.fondation-inria.fr/home/). His research focuses on the use of machine learning in the public/mental health sector, and its potential in understanding cognition and brain activity.
+<img src="images/gael.png" alt="drawing" style="width:200px;height:200px;float:left; padding-right:20px;text-align:justify"/>Gael Varoquax is the Research Director of soda at Inria (National Institute for Research in Digital Science and Technology, in Paris). He's also the director of the [scikit-learn operations at Inria foundation](https://scikit-learn.fondation-inria.fr/home/). His research focuses on the use of machine learning in the public/mental health sector, and its potential in understanding cognition and brain activity.
 
 [Personal website](https://gael-varoquaux.info/) - [twitter](https://twitter.com/gaelvaroquaux) - [Google Scholar](https://scholar.google.com/citations?user=OGGu384AAAAJ&hl=en)
 <br><br><br>
 ### <span style="color:#5F4B66">Konrad Kording</span>
-<img src="kording.jpg" alt="drawing" style="width:200px;height:200px;float:left; padding-right:20px; text-align:justify"/>Dr. Kording is a Penn Integrates Knowledge professor at University of Pennsylvania. Early research in the lab focused on computational neuroscience and in particular movement. The current focus is on Causality in Data science applications. Dr. Kording he's also interested in the question of how the brain solves the credit assignment problem and similarly how we should assign credit in the real world (through causality). 
+<img src="images/konrad.png" alt="drawing" style="width:200px;height:200px;float:left; padding-right:20px; text-align:justify"/>Dr. Kording is a Penn Integrates Knowledge professor at University of Pennsylvania. Early research in the lab focused on computational neuroscience and in particular movement. The current focus is on Causality in Data science applications. Dr. Kording he's also interested in the question of how the brain solves the credit assignment problem and similarly how we should assign credit in the real world (through causality). 
 
 [Personal website](http://koerding.com/) - [twitter](https://twitter.com/gaelvaroquaux) - [Google Scholar](https://scholar.google.com/citations?user=MiFqJGcAAAAJ&hl=en)
 <br><br><br>
 ### <span style="color:#5F4B66">Jessica Flack</span>
 
-<img src="jessica.jpg" alt="drawing" style="width:200px;height:200px;float:left; padding-right:20px; text-align:justify"/>Prof. Flack is a professor at Sante Fe Institute, New Mexico, where she runs Collective Computation Group. Her research focuses on evolutionary theory, cognitive neuroscience and behavior, statistical mechanics, information theory, dynamical systems and theoretical computer science to study the roles of information processing and collective computation in the emergence of robust structure and function in adaptive systems.
+<img src="images/jessica.png" alt="drawing" style="width:200px;height:200px;float:left; padding-right:20px; text-align:justify"/>Prof. Flack is a professor at Sante Fe Institute, New Mexico, where she runs Collective Computation Group. Her research focuses on evolutionary theory, cognitive neuroscience and behavior, statistical mechanics, information theory, dynamical systems and theoretical computer science to study the roles of information processing and collective computation in the emergence of robust structure and function in adaptive systems.
 
 [Personal website](https://c4.santafe.edu/) - [twitter](https://twitter.com/c4computation?lang=en) 
 <br><br><br>
 ### <span style="color:#5F4B66">Melanie Mitchell</span>
 
-<img src="melanie.jpg" alt="drawing" style="width:200px;height:200px;float:left; padding-right:20px; text-align:justify"/>Melanie Mitchell is the Davis Professor at the Santa Fe Institute. Her current research focuses on conceptual abstraction, analogy-making, and visual recognition in artificial intelligence systems. 
+<img src="images/melanie.png" alt="drawing" style="width:200px;height:200px;float:left; padding-right:20px; text-align:justify"/>Melanie Mitchell is the Davis Professor at the Santa Fe Institute. Her current research focuses on conceptual abstraction, analogy-making, and visual recognition in artificial intelligence systems. 
 
 [Personal website](https://melaniemitchell.me/) - [twitter](https://twitter.com/MelMitchell1) - [Google Scholar]([https://scholar.google.com/citations?user=MiFqJGcAAAAJ&hl=en](https://scholar.google.com/citations?user=4xK5uaQAAAAJ&hl=en))
 <br><br><br><br>
