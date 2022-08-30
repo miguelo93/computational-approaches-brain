@@ -30,7 +30,12 @@ The event is organized within the "Sensation and Perception to Awareness: Leverh
 <br><br><br>
 ### <span style="color:#5F4B66">Romaine Brette</span>
 
-<img src="romain-200x300.jpg" alt="drawing" style="width:145px;height:200px;float:left; padding-right:20px"/>Romain Brette is the Director in computational and theoretical neuroscience in the Institute de la vision, in Paris, where He leads the Computational neuroscience of sensory systems group. His main interests are neural modeling of perception, spike initiation, as well as epstemology of theoretical and computational neuroscience.
+<img src="romain-200x300.jpg" alt="drawing" style="width:145px;height:200px;float:left; padding-right:20px"/>**Talk title:** "Computation in the brain"
+
+**Abstract:** It is often taken for granted that brains compute over neural representations. Traditionally, this means that properties of neural activity play the role of variables in correspondence with properties of things in the world, while brain processes play the role of algorithms that manipulate those variables. This claim is based on implicit assumptions, which require closer examination. The first one is that all behavior is computational. To the extent that “computational” is meaningful, this is false. The second one is neural reductionism: the idea that alleged psychological units (such as the percept of a face) must correspond to neurophysiological units (activity of specific neurons or groups of neurons), rather than to a mode of activity of the brain. The third one is that neural representations correspond to neurophysiological states, which can then be governed by computational processes. But neural representations are not brain states: they are experimental measurements of firing rates over an extended period after a presented stimulus; that is, they are already properties of brain processes. This confusion undermines the coherence of neurocomputationalism.
+
+
+**Bio:** Romain Brette is a theoretical neuroscientist in Paris who has worked in cellular biophysics and systems neuroscience, specifically on modelling auditory perception. This work has led him to reflect on the foundational concepts of neural modeling and computational neuroscience, such as neural codes, computation and information.
 
 [Personal website](http://romainbrette.fr/) - [twitter](https://twitter.com/RomainBrette) - [Google Scholar](https://scholar.google.com/citations?hl=en&user=lEHiPU4AAAAJ)
 <br><br><br>
@@ -66,7 +71,7 @@ The event is organized within the "Sensation and Perception to Awareness: Leverh
 | TIME (GMT +01 - London) | Speaker          | Talk Title |
 |:-----------------------:|:----------------:|:----------:|
 |       2:30-3:00pm       | Joseph Lizier    | "Enabling tools to model information processing in complex systems"|
-|       3:00-3:30pm       | Romaine Brette   | TBA        |
+|       3:00-3:30pm       | Romaine Brette   | "Computation in the brain"|
 |       3:30-4:00pm       | Gael Varoquax    | TBA        |
 |       4:00-4:30pm       | BREAK            |            |
 |       4:30-5:00pm       | Konrad Kording   | TBA        |
