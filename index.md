@@ -19,7 +19,12 @@ The event is organized within the "Sensation and Perception to Awareness: Leverh
 ## <span style="color:#2C1320">Speakers</span>
 
 ### <span style="color:#5F4B66">Joseph Lizier</span>
-<img src="lizier.jpg" alt="drawing" style="width:145px;height:200px;float:left; padding-right:20px"/>Prof. Joseph Lizier is an Associate Professor in Complex Systems at the Univeristy of Sidney, Australia, in the Complex Systems Research Group and Centre for Complex Systems. His research focuses on information processing in biological and bio-inspired complex networks, including in the computational neuroscience domain.
+<img src="lizier.jpg" alt="drawing" style="width:145px;height:200px;float:left; padding-right:20px"/> 
+**Talk title:** "Enabling tools to model information processing in complex systems"
+
+**Abstract:** The space-time dynamics of interactions in complex systems are often described using terminology of information processing, or distributed computation, in particular with reference to information being stored, transferred and modified in these systems. In this talk, I will introduce an information-theoretic framework -- information dynamics -- that we use to model each of these operations on information within a complex system, and their dynamics in space and time. Not only does this framework quantitatively align with natural qualitative descriptions of information processing in neural and other systems, it provides multiple complementary perspectives on how, where and why a system is exhibiting complexity. Specifically, I will describe tools we have produced to enable quantitative analysis of such information processing, including both theoretical advances (such as how to measure information flows between spike trains) and software toolkits (including JIDT and IDTxl). I will focus specifically on the interaction between theory, enabling tools and applications, and how we have addressed methodological challenges at their intersection.
+
+**Bio:** Associate Professor Joseph Lizier is a member of the Centre for Complex Systems and School of Computer Science at the Faculty of Engineering at The University of Sydney. His research focuses on studying the dynamics of information processing in biological and bio-inspired complex systems and networks, using tools from information theory to reveal when and where in a complex system information is being stored, transferred and modified. A/Prof. Lizier's research has produced fundamental theoretical insights into the nature of information processing, whilst simultaneously being successfully applied to a number of domains including computational neuroscience, where it has revealed directed information structure in the brain from neural recordings. A/Prof. Lizier is a developer of the JIDT toolbox for measuring the dynamics of complex systems using information theory, and the related IDTxl toolbox for inferring effective network structure in neural data. He teaches into the University's Master of Complex Systems degree, is a Deputy Director of the Centre for Complex Systems, and a member of various editorial boards including Entropy, Complexity and Frontiers in Robotics and AI. Before joining The University of Sydney in 2015, A/Prof. Lizier held postdoctoral positions at CSIRO ICT Centre and Max Planck Institute for Mathematics in the Sciences Leipzig, worked in the telecommunications industry for 10 years including at Seeker Wireless and Telstra Research Laboratories, and obtained a PhD in Computer Science from The University of Sydney in 2010.
 
 [Personal website](https://lizier.me/joseph/) - [twitter](https://twitter.com/jlizier) - [Google Scholar](https://scholar.google.com/citations?user=QJwapBoAAAAJ&hl=en)
 <br><br><br>
@@ -60,7 +65,7 @@ The event is organized within the "Sensation and Perception to Awareness: Leverh
 </style>
 | TIME (GMT +01 - London) | Speaker          | Talk Title |
 |:-----------------------:|:----------------:|:----------:|
-|       2:30-3:00pm       | Joseph Lizier    | TBA        |
+|       2:30-3:00pm       | Joseph Lizier    | "Enabling tools to model information processing in complex systems"|
 |       3:00-3:30pm       | Romaine Brette   | TBA        |
 |       3:30-4:00pm       | Gael Varoquax    | TBA        |
 |       4:00-4:30pm       | BREAK            |            |
