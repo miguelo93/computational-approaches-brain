@@ -58,7 +58,13 @@ The event is organized within the "Sensation and Perception to Awareness: Leverh
 <br><br><br>
 ### <span style="color:#5F4B66">Melanie Mitchell</span>
 
-<img src="images/melanie.png" alt="drawing" style="width:200px;height:200px;float:left; padding-right:20px; text-align:justify"/>Melanie Mitchell is the Davis Professor at the Santa Fe Institute. Her current research focuses on conceptual abstraction, analogy-making, and visual recognition in artificial intelligence systems. 
+<img src="images/melanie.png" alt="drawing" style="width:200px;height:200px;float:left; padding-right:20px; text-align:justify"/>**Talk title:** "Why AI is Harder Than We Think"
+
+<p style="margin-left: 220px;"><strong>Abstract:</strong> Since its beginning in the 1950s, the field of artificial intelligence has cycled several times between periods of optimistic predictions and massive investment (“AI Spring”) and periods of disappointment, loss of confidence, and reduced funding (“AI Winter”). Even with today’s seemingly fast pace of AI breakthroughs, the development of long-promised technologies such as self-driving cars, housekeeping robots, and conversational companions has turned out to be much harder than many people expected.
+One reason for these repeating cycles is our limited understanding of the nature and complexity of intelligence itself.  In this talk I will discuss some fallacies in common assumptions made by AI researchers, which can lead to overconfident predictions about the field. I will also speculate on what kinds of new ideas and new science will be needed for the grand challenge of making AI systems more robust, general, and adaptable—in short, more intelligent.
+</p>
+
+**Bio:** 
 
 [Personal website](https://melaniemitchell.me/) - [twitter](https://twitter.com/MelMitchell1) - [Google Scholar]([https://scholar.google.com/citations?user=MiFqJGcAAAAJ&hl=en](https://scholar.google.com/citations?user=4xK5uaQAAAAJ&hl=en))
 <br><br><br><br>
@@ -76,7 +82,7 @@ The event is organized within the "Sensation and Perception to Awareness: Leverh
 |       4:00-4:30pm       | BREAK            |            |
 |       4:30-5:00pm       | Konrad Kording   | TBA        |
 |       5:00:5:30pm       | Jessica Flack    | TBA        |
-|       5:30-5:45pm       | Melanie Mitchell | TBA        |
+|       5:30-5:45pm       | Melanie Mitchell | "Why AI is Harder Than We Think"|
 |       5:45-6:45pm       | PANEL DISCUSSION |            |
 {: .tablelines}
 
