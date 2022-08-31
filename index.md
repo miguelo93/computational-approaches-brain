@@ -18,7 +18,8 @@ This **online** event will bring together researchers with expertise in various 
 The event is organized within the "Sensation and Perception to Awareness: Leverhulme Doctoral Scholarship Programme" at the Univeristy of Sussex. You can find more info [here](#organizers)
 ## <span style="color:#2C1320">Speakers</span>
 
-### <span style="color:#5F4B66">Joseph Lizier</span>{: style="text-align: center;"}
+### <span style="color:#5F4B66; text-align: center">Joseph Lizier</span>
+
 <img src="images/joseph.png" alt="drawing" class="center-image" style="width:200px;height:200px;"/>
 
 **Talk title:** "Enabling tools to model information processing in complex systems"
@@ -31,7 +32,7 @@ The event is organized within the "Sensation and Perception to Awareness: Leverh
 <br><br><br>
 <img src="images/separator.png" alt="drawing"  class="center-image"/>
 
-### <span style="color:#5F4B66">Romaine Brette</span>
+### <span style="color:#5F4B66; text-align: center">Romaine Brette</span>
 
 <img src="images/romain.png" alt="drawing" class="center-image" style="width:200px;height:200px;"/>**Talk title:** "Computation in the brain"
 
