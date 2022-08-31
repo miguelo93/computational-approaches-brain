@@ -1,7 +1,8 @@
 # <span style="color:#2C1320">Rethinking Computational Approaches to the Brain</span>
-### Fundamental challenges and future perspectives - 21st OCTOBER 2022
+### Fundamental challenges and future perspectives
+###  21st OCTOBER 2022
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-#### <span style="color:red">21st OCTOBER 2022 - Register Here !!</span>
+#### <span style="color:red; text-align: center">REGISTER HERE !!</span>
 ![Logo](logo1.png){: .center-image}
 
 
@@ -101,7 +102,7 @@ One reason for these repeating cycles is our limited understanding of the nature
         border: 1px solid black;
         }
 </style>
-| TIME (GMT +01 - London) | Speaker          | Talk Title |
+| TIME (GMT +1 - London) | Speaker          | Talk Title |
 |:-----------------------:|:----------------:|:----------:|
 |       2:30-3:00pm       | Joseph Lizier    | "Enabling tools to model information processing in complex systems"|
 |       3:00-3:30pm       | Romaine Brette   | "Computation in the brain"|
