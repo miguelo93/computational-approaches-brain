@@ -2,9 +2,9 @@
 ### Fundamental challenges and future perspectives
 ###  21st OCTOBER 2022
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-#### <span style="color:red; text-align: center">REGISTER HERE !!</span>
+#### <span style="color:red; text-align: center">****REGISTER HERE !!****</span>
 ![Logo](logo1.png){: .center-image}
-
+#### <span style="color:red; text-align: center">****REGISTER HERE !!****</span>
 
 [Speakers](#speakers) - [Schedule](#schedule) - [Organizers](#organizers)
 {: style="text-align: center;"}
