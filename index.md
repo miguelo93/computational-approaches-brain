@@ -67,7 +67,7 @@ The event is organized within the "Sensation and Perception to Awareness: Leverh
 
 **Bio:** Dr. Kording is a Penn Integrates Knowledge professor at University of Pennsylvania. Early research in the lab focused on computational neuroscience and in particular movement. The current focus is on Causality in Data science applications. Dr. Kording he’s also interested in the question of how the brain solves the credit assignment problem and similarly how we should assign credit in the real world (through causality).
 
-[Personal Website](http://koerding.com/) - [Twitter](https://twitter.com/KordingLab?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) - [Google Scholar](https://scholar.google.com/citations?user=MiFqJGcAAAAJ&hl=en)[GitHub](https://github.com/KordingLab)
+[Personal Website](http://koerding.com/) - [Twitter](https://twitter.com/KordingLab?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) - [Google Scholar](https://scholar.google.com/citations?user=MiFqJGcAAAAJ&hl=en) - [GitHub](https://github.com/KordingLab)
 <img src="images/separator.png" alt="drawing"  class="center-image" style="width:100%; height:80px"/>
 ### <span style="color:#5F4B66; text-align: center">Jessica Flack</span>
 <img src="images/jessica.png" alt="drawing" class="center-image" style="width:200px;height:200px;"/>
@@ -123,13 +123,13 @@ The symposium is organized within the ['Sensation and Perception to Awareness: L
 
 
 ### <span style="color:#5F4B66">Federico Micheli</span>
-<img src="images/Federico-modified.png" alt="drawing" style="width:200px;height:200px;float:left; padding-right:20px; text-align:justify"/>
+<img src="images/Federico-modified.png" alt="drawing" style="width:200px;height:200px;float:left; padding-right:20px; text-align:justify; padding-bottom: 30px;"/>
 Federico is a PhD student at the University of Sussex, working under the superivsion of Dr Peter Lush, prof. Warrick Roseboom and prof. Anil Seth. His interests span all over consciousness science. In his project, he's working on the cognitive penetrability of perception thesis, using insights from experimental hypnosis research to answer outstanding questions on the origin and nature of perceptual illusions. 
 
 [Twitter](http://twitter.com/miguelo93)
 
 ### <span style="color:#5F4B66">Nadine Spychala</span>
-<img src="images/nadine-modified.png" alt="drawing" style="width:200px;height:200px;float:left; padding-right:20px; text-align:justify"/>
+<img src="images/nadine-modified.png" alt="drawing" style="width:200px;height:200px;float:left; padding-right:20px; text-align:justify; padding-bottom: 80px;"/>
 Nadine is a doctoral researcher in computational neuroscience and complex systems where she validates information-theoretic measures of complexity and emergence in both simulated and empirical data. Her work can be described as a solid mixture of mathematics, machine learning, neuroscience, as well as philosophy. She cares about open & reproducible research (and, in this context, good research software) that is aligned with ethical research culture & incentives.
 
 [Personal Website](https://nadinespy.github.io/) - [Twitter](https://twitter.com/NadineSpychala) - [Google Scholar](https://scholar.google.com/citations?user=azGyyRUAAAAJ&hl=de&oi=ao) - [GitHub](https://github.com/nadinespy) - [LinkedIn](https://www.linkedin.com/in/nadine-spychala-9a952714b/)  
