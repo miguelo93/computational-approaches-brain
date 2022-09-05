@@ -48,9 +48,9 @@ The event is organized within the "Sensation and Perception to Awareness: Leverh
 ### <span style="color:#5F4B66; text-align: center">Gael Varoquax</span>
 <img src="images/gael.png" alt="drawing" class="center-image" style="width:200px;height:200px;"/>
 
-**Talk title:** " "
+**Talk title: TBA** 
 
-<p ><strong>Abstract:</strong> 
+<p ><strong>Abstract: TBA</strong>
 </p>
 
 **Bio:** Gael Varoquax is the Research Director of soda at Inria (National Institute for Research in Digital Science and Technology, in Paris). He's also the director of the [scikit-learn operations at Inria foundation](https://scikit-learn.fondation-inria.fr/home/). His research focuses on the use of machine learning in the public/mental health sector, and its potential in understanding cognition and brain activity.
@@ -72,9 +72,9 @@ The event is organized within the "Sensation and Perception to Awareness: Leverh
 ### <span style="color:#5F4B66; text-align: center">Jessica Flack</span>
 <img src="images/jessica.png" alt="drawing" class="center-image" style="width:200px;height:200px;"/>
 
-**Talk title:** " "
+**Talk title: TBA** 
 
-<p ><strong>Abstract:</strong> 
+<p ><strong>Abstract: TBA</strong> 
 </p>
 
 **Bio:** Prof. Flack is a professor at Sante Fe Institute, New Mexico, where she runs Collective Computation Group. Her research focuses on evolutionary theory, cognitive neuroscience and behavior, statistical mechanics, information theory, dynamical systems and theoretical computer science to study the roles of information processing and collective computation in the emergence of robust structure and function in adaptive systems.
