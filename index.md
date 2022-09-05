@@ -15,7 +15,7 @@ This one-day **online** event will bring together researchers with expertise in 
 3. Do different approaches speak to, complement, or contradict each other? 
 4. What are the current challenges in computational approaches to understand the mind, and what could bring progress?
 
-The event is organized within the "Sensation and Perception to Awareness: Leverhulme Doctoral Scholarship Programme" at the Univeristy of Sussex (find more info [here])(#organizers), and will comprise a set of talks followed by a panel discussion (see [schedule])(#schedule).
+The event is organized within the "Sensation and Perception to Awareness: Leverhulme Doctoral Scholarship Programme" at the Univeristy of Sussex (find more info [here](#organizers)), and will comprise a set of talks followed by a panel discussion (see [schedule](#schedule)).
 ## <span style="color:#2C1320">Speakers</span>
 
 ### <span style="color:#5F4B66; text-align: center">Joseph Lizier</span>
@@ -29,7 +29,7 @@ The event is organized within the "Sensation and Perception to Awareness: Leverh
 **Bio:** Associate Professor Joseph Lizier (PhD, 2010) is a member of the School of Computer Science in the Faculty of Engineering at The University of Sydney (since 2015). His research studies the dynamics of information processing in biological and bio-inspired complex systems and networks, focussing both on fundamental theoretical advances as well as applications to neural systems and collective animal behaviour. He is a lead developer of the JIDT and IDTxl toolboxes for using information theory to characterise dynamics of information flows and effective structure of complex systems time-series. A/Prof. Lizier teaches into the University's Master of Complex Systems degree, and is a deputy director of the Centre for Complex Systems. He is a member of the editorial boards of Entropy, Complexity, Theory in Bioscience, Complex Systems, and Frontiers in Robotics and AI. He has held postdoctoral positions at CSIRO and Max Planck Institute Leipzig, and worked in the telecommunications industry for 10 years, including at Seeker Wireless and Telstra Research Laboratories.
 
 
-[Personal Website](https://lizier.me/joseph/) - [Twitter](https://twitter.com/jlizier) - [Google Scholar](https://scholar.google.com/citations?user=QJwapBoAAAAJ&hl=en)[GitHub](https://github.com/jlizier)
+[Personal Website](https://lizier.me/joseph/) - [Twitter](https://twitter.com/jlizier) - [Google Scholar](https://scholar.google.com/citations?user=QJwapBoAAAAJ&hl=en) - [GitHub](https://github.com/jlizier)
 
 <img src="images/separator.png" alt="drawing"  class="center-image" style="width:100%; height:80px"/>
 ### <span style="color:#5F4B66; text-align: center">Romaine Brette</span>
@@ -43,7 +43,7 @@ The event is organized within the "Sensation and Perception to Awareness: Leverh
 
 **Bio:** Romain Brette is a theoretical neuroscientist in Paris who has worked in cellular biophysics and systems neuroscience, specifically on modelling auditory perception. This work has led him to reflect on the foundational concepts of neural modeling and computational neuroscience, such as neural codes, computation and information.
 
-[Personal Website](http://romainbrette.fr/) - [Twitter](https://twitter.com/RomainBrette) - [Google Scholar](https://scholar.google.com/citations?hl=en&user=lEHiPU4AAAAJ)[GitHub](https://github.com/romainbrette)
+[Personal Website](http://romainbrette.fr/) - [Twitter](https://twitter.com/RomainBrette) - [Google Scholar](https://scholar.google.com/citations?hl=en&user=lEHiPU4AAAAJ) - [GitHub](https://github.com/romainbrette)
 <img src="images/separator.png" alt="drawing"  class="center-image" style="width:100%; height:80px"/>
 ### <span style="color:#5F4B66; text-align: center">Gael Varoquax</span>
 <img src="images/gael.png" alt="drawing" class="center-image" style="width:200px;height:200px;"/>
@@ -55,7 +55,7 @@ The event is organized within the "Sensation and Perception to Awareness: Leverh
 
 **Bio:** Gael Varoquax is the Research Director of soda at Inria (National Institute for Research in Digital Science and Technology, in Paris). He's also the director of the [scikit-learn operations at Inria foundation](https://scikit-learn.fondation-inria.fr/home/). His research focuses on the use of machine learning in the public/mental health sector, and its potential in understanding cognition and brain activity.
 
-[Personal Website](https://gael-varoquaux.info/) - [Twitter](https://twitter.com/gaelvaroquaux) - [Google Scholar](https://scholar.google.com/citations?user=OGGu384AAAAJ&hl=en)[GitHub](https://github.com/GaelVaroquaux)
+[Personal Website](https://gael-varoquaux.info/) - [Twitter](https://twitter.com/gaelvaroquaux) - [Google Scholar](https://scholar.google.com/citations?user=OGGu384AAAAJ&hl=en) - [GitHub](https://github.com/GaelVaroquaux)
 <img src="images/separator.png" alt="drawing"  class="center-image" style="width:100%; height:80px"/>
 ### <span style="color:#5F4B66; text-align: center">Konrad Kording</span>
 <img src="images/konrad.png" alt="drawing" class="center-image" style="width:200px;height:200px;"/>
@@ -117,9 +117,19 @@ One reason for these repeating cycles is our limited understanding of the nature
 ![sussuex](unilogo.png){: .logo}<br>
 The symposium is organized within the ['Sensation and Perception to Awareness: Leverhulme Doctoral Scholarship Programme'](https://www.sussex.ac.uk/sensation/) directed by Jamie Ward and Anil Seth at the University of Sussex. It brings together researchers from across neuroscience, philosophy, psychology, robotics, and the arts, with the aim of advancing our understanding of interactions between sensation, perception, and awareness in humans, animals, and machines. As part of the programme, doctoral researchers are encouraged to be involved in seminar and conference organisation. For this symposium, the organizers are:
 ### <span style="color:#5F4B66">Tomasz Korbak</span>
-<img src="images/tomek.png" alt="drawing" style="width:200px;height:200px;float:left; padding-right:20px; text-align:justify"/>In his doctoral project, Tomek is working on deep reinforcement learning and generative models with Chris Buckley and Anil Seth. He focuses on probabilistic approaches to control, such as active inference and control-as-inference, and controllable generative modelling.[Personal Website]
+<img src="images/tomek.png" alt="drawing" style="width:200px;height:200px;float:left; padding-right:20px; text-align:justify"/>In his doctoral project, Tomek is working on deep reinforcement learning and generative models with Chris Buckley and Anil Seth. He focuses on probabilistic approaches to control, such as active inference and control-as-inference, and controllable generative modelling.
+
+[Personal Website](https://tomekkorbak.com/) - [Twitter](http://twitter.com/tomekkorbak) - [Google Scholar](http://scholar.google.com/citations?user=YQ5rrk4AAAAJ) - [Github](http://github.com/tomekkorbak) - [Linkedin](http://linkedin.com/in/tomaszkorbak)
+
+
 ### <span style="color:#5F4B66">Federico Micheli</span>
-asdasd
+<img src="images/Federico-modified.png" alt="drawing" style="width:200px;height:200px;float:left; padding-right:20px; text-align:justify"/>
+Federico is a PhD student at the University of Sussex, working under the superivsion of Dr Peter Lush, prof. Warrick Roseboom and prof. Anil Seth. His interests span all over consciousness science. In his project, he's working on the cognitive penetrability of perception thesis, using insights from experimental hypnosis research to answer outstanding questions on the origin and nature of perceptual illusions. 
+
+[Twitter](http://twitter.com/miguelo93)
+
 ### <span style="color:#5F4B66">Nadine Spychala</span>
-<img src="images/nadine.jpg" alt="drawing" style="width:200px;height:200px;float:left; padding-right:20px; text-align:justify"/>
-Nadine is a doctoral researcher in computational neuroscience and complex systems where she validates information-theoretic measures of complexity and emergence in both simulated and empirical data. Her work can be described as a solid mixture of mathematics, machine learning, neuroscience, as well as philosophy. She cares about open & reproducible research (and, in this context, good research software) that is aligned with ethical research culture & incentives.[Personal Website](https://nadinespy.github.io/) - [Twitter](https://twitter.com/NadineSpychala) - [Google Scholar](https://scholar.google.com/citations?user=azGyyRUAAAAJ&hl=de&oi=ao) - [GitHub](https://github.com/nadinespy) - [LinkedIn](https://www.linkedin.com/in/nadine-spychala-9a952714b/)  
+<img src="images/nadine-modified.png" alt="drawing" style="width:200px;height:200px;float:left; padding-right:20px; text-align:justify"/>
+Nadine is a doctoral researcher in computational neuroscience and complex systems where she validates information-theoretic measures of complexity and emergence in both simulated and empirical data. Her work can be described as a solid mixture of mathematics, machine learning, neuroscience, as well as philosophy. She cares about open & reproducible research (and, in this context, good research software) that is aligned with ethical research culture & incentives.
+
+[Personal Website](https://nadinespy.github.io/) - [Twitter](https://twitter.com/NadineSpychala) - [Google Scholar](https://scholar.google.com/citations?user=azGyyRUAAAAJ&hl=de&oi=ao) - [GitHub](https://github.com/nadinespy) - [LinkedIn](https://www.linkedin.com/in/nadine-spychala-9a952714b/)  
