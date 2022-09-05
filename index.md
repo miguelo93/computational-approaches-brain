@@ -107,7 +107,7 @@ One reason for these repeating cycles is our limited understanding of the nature
 |       3:00-3:30pm       | Romaine Brette   | "Computation in the brain"|
 |       3:30-4:00pm       | Gael Varoquax    | TBA        |
 |       4:00-4:30pm       | BREAK            |            |
-|       4:30-5:00pm       | Konrad Kording   | TBA        |
+|       4:30-5:00pm       | Konrad Kording   | "Causality in the Brain"|
 |       5:00:5:30pm       | Jessica Flack    | TBA        |
 |       5:30-5:45pm       | Melanie Mitchell | "Why AI is Harder Than We Think"|
 |       5:45-6:45pm       | PANEL DISCUSSION |            |
