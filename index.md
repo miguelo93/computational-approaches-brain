@@ -60,12 +60,12 @@ The event is organized within the "Sensation and Perception to Awareness: Leverh
 ### <span style="color:#5F4B66; text-align: center">Konrad Kording</span>
 <img src="images/konrad.png" alt="drawing" class="center-image" style="width:200px;height:200px;"/>
 
-**Talk title:** " "
+**Talk title:** "Causality in the brain"
 
 <p ><strong>Abstract:</strong> Konrad Kording will introduce the conceptual role that causation plays in most neuroscientists ways of thinking about the brain – both in the context of medical applications and in the context of basic research. He will contrast this conceptual role with the limitations of scientists to experimentally get at causality. Perturbation, the one methods that does allow reliably establishing causality does not scale to high dimensions. This makes understanding a complex system with many interacting parts highly problematic. He will end with an overview of coming approaches, in particular connectomics, that may change the current status quo in neural causality research.
 </p>
 
-**Bio:** Dr. Kording is a Penn Integrates Knowledge professor at University of Pennsylvania. Early research in the lab focused on computational neuroscience and in particular movement. The current focus is on Causality in Data science applications. Dr. Kording he’s also interested in the question of how the brain solves the credit assignment problem and similarly how we should assign credit in the real world (through causality).
+**Bio:** Dr. Kording (He/Him) is trying to understand how the world and in particular the brain works using data. Early research in the lab focused on computational neuroscience and in particular movement. But as the approaches matured, the focus has more been on discovering ways in which new data sources as well as emerging data analysis can enable awesome possibilities. The current focus is on Causality in Data science applications - how do we know how things work if we can not randomize? But we are also very much excited about understanding how the brain does credit assignment. Our style of working is transdisciplinary, we collaborate on virtually every project
 
 [Personal Website](http://koerding.com/) - [Twitter](https://twitter.com/KordingLab?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) - [Google Scholar](https://scholar.google.com/citations?user=MiFqJGcAAAAJ&hl=en) - [GitHub](https://github.com/KordingLab)
 <img src="images/separator.png" alt="drawing"  class="center-image" style="width:100%; height:80px"/>
