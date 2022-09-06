@@ -22,18 +22,28 @@ The event is organized within the "Sensation and Perception to Awareness: Leverh
 
 <img src="images/joseph.png" alt="drawing" class="center-image" style="width:200px;height:200px;"/>
 
+**Talk title:** "Enabling tools to model information processing in complex systems"
+
+<p ><strong>Abstract:</strong> The space-time dynamics of interactions in complex systems are often described using terminology of information processing, or distributed computation, in particular with reference to information being stored, transferred and modified in these systems. In this talk, I will introduce an information-theoretic framework -- information dynamics -- that we use to model each of these operations on information within a complex system, and their dynamics in space and time. Not only does this framework quantitatively align with natural qualitative descriptions of information processing in neural and other systems, it provides multiple complementary perspectives on how, where and why a system is exhibiting complexity. Specifically, I will describe tools we have produced to enable quantitative analysis of such information processing, including both theoretical advances (such as how to measure information flows between spike trains) and software toolkits (including JIDT and IDTxl). I will focus specifically on the interaction between theory, enabling tools and applications, and how we have addressed methodological challenges at their intersection.</p>
+
+**Bio:** Associate Professor Joseph Lizier (PhD, 2010) is a member of the School of Computer Science in the Faculty of Engineering at The University of Sydney (since 2015). His research studies the dynamics of information processing in biological and bio-inspired complex systems and networks, focussing both on fundamental theoretical advances as well as applications to neural systems and collective animal behaviour. He is a lead developer of the JIDT and IDTxl toolboxes for using information theory to characterise dynamics of information flows and effective structure of complex systems time-series. A/Prof. Lizier teaches into the University's Master of Complex Systems degree, and is a deputy director of the Centre for Complex Systems. He is a member of the editorial boards of Entropy, Complexity, Theory in Bioscience, Complex Systems, and Frontiers in Robotics and AI. He has held postdoctoral positions at CSIRO and Max Planck Institute Leipzig, and worked in the telecommunications industry for 10 years, including at Seeker Wireless and Telstra Research Laboratories.
+
+
 [Personal Website](https://lizier.me/joseph/) - [Twitter](https://twitter.com/jlizier) - [Google Scholar](https://scholar.google.com/citations?user=QJwapBoAAAAJ&hl=en) - [GitHub](https://github.com/jlizier)
-{: style="text-align: center;"}
 
 <img src="images/separator.png" alt="drawing"  class="center-image" style="width:100%; height:80px"/>
 ### <span style="color:#5F4B66; text-align: center">Romaine Brette</span>
 
 <img src="images/romain.png" alt="drawing" class="center-image" style="width:200px;height:200px;"/>
 
+**Talk title:** "Computation in the brain"
+
+<p><strong>Abstract:</strong>  It is often taken for granted that brains compute over neural representations. Traditionally, this means that properties of neural activity play the role of variables in correspondence with properties of things in the world, while brain processes play the role of algorithms that manipulate those variables. This claim is based on implicit assumptions, which require closer examination. The first one is that all behavior is computational. To the extent that “computational” is meaningful, this is false. The second one is neural reductionism: the idea that alleged psychological units (such as the percept of a face) must correspond to neurophysiological units (activity of specific neurons or groups of neurons), rather than to a mode of activity of the brain. The third one is that neural representations correspond to neurophysiological states, which can then be governed by computational processes. But neural representations are not brain states: they are experimental measurements of firing rates over an extended period after a presented stimulus; that is, they are already properties of brain processes. This confusion undermines the coherence of neurocomputationalism.</p>
+
+
+**Bio:** Romain Brette is a theoretical neuroscientist in Paris who has worked in cellular biophysics and systems neuroscience, specifically on modelling auditory perception. This work has led him to reflect on the foundational concepts of neural modeling and computational neuroscience, such as neural codes, computation and information.
 
 [Personal Website](http://romainbrette.fr/) - [Twitter](https://twitter.com/RomainBrette) - [Google Scholar](https://scholar.google.com/citations?hl=en&user=lEHiPU4AAAAJ) - [GitHub](https://github.com/romainbrette)
-{: style="text-align: center;"}
-
 <img src="images/separator.png" alt="drawing"  class="center-image" style="width:100%; height:80px"/>
 ### <span style="color:#5F4B66; text-align: center">Gael Varoquax</span>
 <img src="images/gael.png" alt="drawing" class="center-image" style="width:200px;height:200px;"/>
@@ -46,7 +56,6 @@ The event is organized within the "Sensation and Perception to Awareness: Leverh
 **Bio:** Gael Varoquax is the Research Director of soda at Inria (National Institute for Research in Digital Science and Technology, in Paris). He's also the director of the [scikit-learn operations at Inria foundation](https://scikit-learn.fondation-inria.fr/home/). His research focuses on the use of machine learning in the public/mental health sector, and its potential in understanding cognition and brain activity.
 
 [Personal Website](https://gael-varoquaux.info/) - [Twitter](https://twitter.com/gaelvaroquaux) - [Google Scholar](https://scholar.google.com/citations?user=OGGu384AAAAJ&hl=en) - [GitHub](https://github.com/GaelVaroquaux)
-
 <img src="images/separator.png" alt="drawing"  class="center-image" style="width:100%; height:80px"/>
 ### <span style="color:#5F4B66; text-align: center">Konrad Kording</span>
 <img src="images/konrad.png" alt="drawing" class="center-image" style="width:200px;height:200px;"/>
@@ -104,34 +113,6 @@ One reason for these repeating cycles is our limited understanding of the nature
 |       5:45-6:45pm       | PANEL DISCUSSION |            |
 {: .tablelines}
 
-## <span style="color:#2C1320">Abstracts</span>
-
-**Speaker:** Joseph Lizier
-
-**Talk title:** "Enabling tools to model information processing in complex systems"
-
-<p ><strong>Abstract:</strong> The space-time dynamics of interactions in complex systems are often described using terminology of information processing, or distributed computation, in particular with reference to information being stored, transferred and modified in these systems. In this talk, I will introduce an information-theoretic framework -- information dynamics -- that we use to model each of these operations on information within a complex system, and their dynamics in space and time. Not only does this framework quantitatively align with natural qualitative descriptions of information processing in neural and other systems, it provides multiple complementary perspectives on how, where and why a system is exhibiting complexity. Specifically, I will describe tools we have produced to enable quantitative analysis of such information processing, including both theoretical advances (such as how to measure information flows between spike trains) and software toolkits (including JIDT and IDTxl). I will focus specifically on the interaction between theory, enabling tools and applications, and how we have addressed methodological challenges at their intersection.</p>
-
-<img src="images/separator.png" alt="drawing"  class="center-image" style="width:100%; height:80px"/>
-
-**Speaker:** Romain Brette
-
-**Talk title:** "Computation in the brain"
-
-<p><strong>Abstract:</strong>  It is often taken for granted that brains compute over neural representations. Traditionally, this means that properties of neural activity play the role of variables in correspondence with properties of things in the world, while brain processes play the role of algorithms that manipulate those variables. This claim is based on implicit assumptions, which require closer examination. The first one is that all behavior is computational. To the extent that “computational” is meaningful, this is false. The second one is neural reductionism: the idea that alleged psychological units (such as the percept of a face) must correspond to neurophysiological units (activity of specific neurons or groups of neurons), rather than to a mode of activity of the brain. The third one is that neural representations correspond to neurophysiological states, which can then be governed by computational processes. But neural representations are not brain states: they are experimental measurements of firing rates over an extended period after a presented stimulus; that is, they are already properties of brain processes. This confusion undermines the coherence of neurocomputationalism.</p>
-
-
-## <span style="color:#2C1320">Bio</span>
-
-### Joseph Lizier
-
-Associate Professor Joseph Lizier (PhD, 2010) is a member of the School of Computer Science in the Faculty of Engineering at The University of Sydney (since 2015). His research studies the dynamics of information processing in biological and bio-inspired complex systems and networks, focussing both on fundamental theoretical advances as well as applications to neural systems and collective animal behaviour. He is a lead developer of the JIDT and IDTxl toolboxes for using information theory to characterise dynamics of information flows and effective structure of complex systems time-series. A/Prof. Lizier teaches into the University's Master of Complex Systems degree, and is a deputy director of the Centre for Complex Systems. He is a member of the editorial boards of Entropy, Complexity, Theory in Bioscience, Complex Systems, and Frontiers in Robotics and AI. He has held postdoctoral positions at CSIRO and Max Planck Institute Leipzig, and worked in the telecommunications industry for 10 years, including at Seeker Wireless and Telstra Research Laboratories.
-
-### Romain Brette
-
-
-Romain Brette is a theoretical neuroscientist in Paris who has worked in cellular biophysics and systems neuroscience, specifically on modelling auditory perception. This work has led him to reflect on the foundational concepts of neural modeling and computational neuroscience, such as neural codes, computation and information.
-
 ## <span style="color:#2C1320">Organizers</span>
 ![sussuex](unilogo.png){: .logo}<br>
 The symposium is organized within the ['Sensation and Perception to Awareness: Leverhulme Doctoral Scholarship Programme'](https://www.sussex.ac.uk/sensation/) directed by Jamie Ward and Anil Seth at the University of Sussex. It brings together researchers from across neuroscience, philosophy, psychology, robotics, and the arts, with the aim of advancing our understanding of interactions between sensation, perception, and awareness in humans, animals, and machines. As part of the programme, doctoral researchers are encouraged to be involved in seminar and conference organisation. For this symposium, the organizers are:
@@ -141,13 +122,13 @@ The symposium is organized within the ['Sensation and Perception to Awareness: L
 [Personal Website](https://tomekkorbak.com/) - [Twitter](http://twitter.com/tomekkorbak) - [Google Scholar](http://scholar.google.com/citations?user=YQ5rrk4AAAAJ) - [Github](http://github.com/tomekkorbak) - [Linkedin](http://linkedin.com/in/tomaszkorbak)
 
 
-### <span style="color:#5F4B66">Federico Micheli (He/Him)</span>
+### <span style="color:#5F4B66">Federico Micheli</span>
 <img src="images/Federico-modified.png" alt="drawing" style="width:200px;height:200px;float:left; padding-right:20px; text-align:justify; padding-bottom: 30px;"/>
-Federico is a PhD student at the University of Sussex, working under the superivsion of Dr Peter Lush, Prof. Warrick Roseboom and Prof. Anil Seth. His interests span all over consciousness science. In his project, he's working on the cognitive penetrability of perception thesis, using insights from experimental hypnosis research to answer outstanding questions on the origin and nature of perceptual illusions. 
+Federico is a PhD student at the University of Sussex, working under the superivsion of Dr Peter Lush, prof. Warrick Roseboom and prof. Anil Seth. His interests span all over consciousness science. In his project, he's working on the cognitive penetrability of perception thesis, using insights from experimental hypnosis research to answer outstanding questions on the origin and nature of perceptual illusions. 
 
 [Twitter](http://twitter.com/miguelo93)
 
-### <span style="color:#5F4B66">Nadine Spychala (She/Her)</span>
+### <span style="color:#5F4B66">Nadine Spychala</span>
 <img src="images/nadine-modified.png" alt="drawing" style="width:200px;height:200px;float:left; padding-right:20px; text-align:justify; padding-bottom: 80px;"/>
 Nadine is a doctoral researcher in computational neuroscience and complex systems where she validates information-theoretic measures of complexity and emergence in both simulated and empirical data. Her work can be described as a solid mixture of mathematics, machine learning, neuroscience, as well as philosophy. She cares about open & reproducible research (and, in this context, good research software) that is aligned with ethical research culture & incentives.
 
