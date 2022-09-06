@@ -93,7 +93,7 @@ One reason for these repeating cycles is our limited understanding of the nature
 
 **Bio:**
 
-[Personal Website](https://melaniemitchell.me/) - [Twitter](https://twitter.com/MelMitchell1) - [Google Scholar]([https://scholar.google.com/citations?user=MiFqJGcAAAAJ&hl=en](https://scholar.google.com/citations?user=4xK5uaQAAAAJ&hl=en))
+[Personal Website](https://melaniemitchell.me/) - [Twitter](https://twitter.com/MelMitchell1) - [Google Scholar](https://scholar.google.com/citations?user=4xK5uaQAAAAJ&hl=en))
 <br><br><br><br>
 ## <span style="color:#2C1320">Schedule</span>
 <style>
