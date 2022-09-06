@@ -85,7 +85,6 @@ Prof. Flack is a professor at Sante Fe Institute, New Mexico, where she runs Col
 <br>
 bio
 </details>
-<br><br><br><br>
 ## <span style="color:#2C1320">Schedule</span>
 <style>
 .tablelines table, .tablelines td, .tablelines th {
