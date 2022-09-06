@@ -57,6 +57,11 @@ Gael Varoquax is the Research Director of soda at Inria (National Institute for 
 
 [Personal Website](http://koerding.com/) - [Twitter](https://twitter.com/KordingLab?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) - [Google Scholar](https://scholar.google.com/citations?user=MiFqJGcAAAAJ&hl=en) - [GitHub](https://github.com/KordingLab)
 {: style="text-align: center;"}
+<details>
+<summary style="font-size: 20px;">Bio</summary>
+<br>
+Dr. Kording (He/Him) is trying to understand how the world and in particular the brain works using data. Early research in the lab focused on computational neuroscience and in particular movement. But as the approaches matured, the focus has more been on discovering ways in which new data sources as well as emerging data analysis can enable awesome possibilities. The current focus is on Causality in Data science applications - how do we know how things work if we can not randomize? But we are also very much excited about understanding how the brain does credit assignment. Our style of working is transdisciplinary, we collaborate on virtually every project
+</details>
 <img src="images/separator.png" alt="drawing"  class="center-image" style="width:100%; height:80px"/>
 ### <span style="color:#5F4B66; text-align: center">Jessica Flack</span>
 <img src="images/JessicaFlack-modified.png" alt="drawing" class="center-image" style="width:200px;height:200px;"/>
@@ -158,7 +163,7 @@ bio
 **Time:** 5:30pm GMT +1
 
 <p ><strong>Abstract:</strong> Since its beginning in the 1950s, the field of artificial intelligence has cycled several times between periods of optimistic predictions and massive investment (“AI Spring”) and periods of disappointment, loss of confidence, and reduced funding (“AI Winter”). Even with today’s seemingly fast pace of AI breakthroughs, the development of long-promised technologies such as self-driving cars, housekeeping robots, and conversational companions has turned out to be much harder than many people expected.
-One reason for these repeating cycles is our limited understanding of the nature and complexity of intelligence itself.  In this talk I will discuss some fallacies in common assumptions made by AI researchers, which can lead to overconfident predictions about the field. I will also speculate on what kinds of new ideas and new science will be needed for the grand challenge of making AI systems more robust, general, and adaptable—in short, more intelligent.
+One reason for these repeating cycles is our limited understanding of the nature and complexity of intelligence itself.  In this talk I will discuss some fallacies in common assumptions made by AI researchers, which can lead to overconfident predictions about the field. I will also speculate on what kinds of new ideas and new science will be needed for the grand challenge of making AI systems more robust, general, and adaptable—in short, more intelligent.</p>
 
 
 
