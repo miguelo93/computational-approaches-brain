@@ -70,7 +70,7 @@ The event is organized within the "Sensation and Perception to Awareness: Leverh
 [Personal Website](http://koerding.com/) - [Twitter](https://twitter.com/KordingLab?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) - [Google Scholar](https://scholar.google.com/citations?user=MiFqJGcAAAAJ&hl=en) - [GitHub](https://github.com/KordingLab)
 <img src="images/separator.png" alt="drawing"  class="center-image" style="width:100%; height:80px"/>
 ### <span style="color:#5F4B66; text-align: center">Jessica Flack</span>
-<img src="images/jessica.png" alt="drawing" class="center-image" style="width:200px;height:200px;"/>
+<img src="images/JessicaFlack-modified.png" alt="drawing" class="center-image" style="width:200px;height:200px;"/>
 
 **Talk title: TBA** 
 
