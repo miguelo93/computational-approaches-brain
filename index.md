@@ -6,7 +6,7 @@
 {: style="text-align: center;"}
 ![Logo](logo1.png){: .center-image}
 
-[Speakers](#speakers) - [Schedule](#schedule) - [Organizers](#organizers)
+[Speakers](#speakers) - [Schedule](#schedule) - [Abstracts](#abstracts) - [Organizers](#organizers)
 {: style="text-align: center;"}
 This one-day **online** event will bring together researchers with expertise in various areas such as complexity science, machine learning & artificial intelligence, information theory & data science, as well as computational/theoretical neuroscience & philosophy to explore different computational approaches in the study of the "mind" (in brains and/or machines): 
 
@@ -40,7 +40,7 @@ Associate Professor Joseph Lizier (PhD, 2010) is a member of the School of Compu
 <br>
 Romain Brette is a theoretical neuroscientist in Paris who has worked in cellular biophysics and systems neuroscience, specifically on modelling auditory perception. This work has led him to reflect on the foundational concepts of neural modeling and computational neuroscience, such as neural codes, computation and information.
 </details>
-<img src="images/separator.png" alt="drawing"  class="center-image" style="width:100%; height:80px"/>
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 ### <span style="color:#5F4B66; text-align: center">Gael Varoquax</span>
 <img src="images/gael.png" alt="drawing" class="center-image" style="width:200px;height:200px;"/>
 
@@ -51,7 +51,7 @@ Romain Brette is a theoretical neuroscientist in Paris who has worked in cellula
 <br>
 Gael Varoquax is the Research Director of soda at Inria (National Institute for Research in Digital Science and Technology, in Paris). He's also the director of the [scikit-learn operations at Inria foundation](https://scikit-learn.fondation-inria.fr/home/). His research focuses on the use of machine learning in the public/mental health sector, and its potential in understanding cognition and brain activity.
 </details>
-<img src="images/separator.png" alt="drawing"  class="center-image" style="width:100%; height:80px"/>
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 ### <span style="color:#5F4B66; text-align: center">Konrad Kording</span>
 <img src="images/konrad.png" alt="drawing" class="center-image" style="width:200px;height:200px;"/>
 
@@ -62,7 +62,7 @@ Gael Varoquax is the Research Director of soda at Inria (National Institute for 
 <br>
 Dr. Kording (He/Him) is trying to understand how the world and in particular the brain works using data. Early research in the lab focused on computational neuroscience and in particular movement. But as the approaches matured, the focus has more been on discovering ways in which new data sources as well as emerging data analysis can enable awesome possibilities. The current focus is on Causality in Data science applications - how do we know how things work if we can not randomize? But we are also very much excited about understanding how the brain does credit assignment. Our style of working is transdisciplinary, we collaborate on virtually every project
 </details>
-<img src="images/separator.png" alt="drawing"  class="center-image" style="width:100%; height:80px"/>
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 ### <span style="color:#5F4B66; text-align: center">Jessica Flack</span>
 <img src="images/JessicaFlack-modified.png" alt="drawing" class="center-image" style="width:200px;height:200px;"/>
 
@@ -74,11 +74,11 @@ Dr. Kording (He/Him) is trying to understand how the world and in particular the
 Prof. Flack is a professor at Sante Fe Institute, New Mexico, where she runs Collective Computation Group. Her research focuses on evolutionary theory, cognitive neuroscience and behavior, statistical mechanics, information theory, dynamical systems and theoretical computer science to study the roles of information processing and collective computation in the emergence of robust structure and function in adaptive systems.
 </details>
 
-<img src="images/separator.png" alt="drawing"  class="center-image" style="width:100%; height:80px"/>
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 ### <span style="color:#5F4B66; text-align: center">Melanie Mitchell</span>
 <img src="images/melanie.png" alt="drawing" class="center-image" style="width:200px;height:200px;"/>
 
-[Personal Website](https://melaniemitchell.me/) - [Twitter](https://twitter.com/MelMitchell1) - [Google Scholar](https://scholar.google.com/citations?user=4xK5uaQAAAAJ&hl=en))
+[Personal Website](https://melaniemitchell.me/) - [Twitter](https://twitter.com/MelMitchell1) - [Google Scholar](https://scholar.google.com/citations?user=4xK5uaQAAAAJ&hl=en)
 {: style="text-align: center;"}
 <details>
 <summary style="font-size: 20px;">Bio</summary>
@@ -174,13 +174,14 @@ The symposium is organized within the ['Sensation and Perception to Awareness: L
 <img src="images/tomek.png" alt="drawing" style="width:200px;height:200px;float:left; padding-right:20px; text-align:justify"/>In his doctoral project, Tomek is working on deep reinforcement learning and generative models with Chris Buckley and Anil Seth. He focuses on probabilistic approaches to control, such as active inference and control-as-inference, and controllable generative modelling.
 
 [Personal Website](https://tomekkorbak.com/) - [Twitter](http://twitter.com/tomekkorbak) - [Google Scholar](http://scholar.google.com/citations?user=YQ5rrk4AAAAJ) - [Github](http://github.com/tomekkorbak) - [Linkedin](http://linkedin.com/in/tomaszkorbak)
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### <span style="color:#5F4B66">Federico Micheli (He/Him)</span>
 <img src="images/Federico-modified.png" alt="drawing" style="width:200px;height:200px;float:left; padding-right:20px; text-align:justify; padding-bottom: 30px;"/>
 Federico is a PhD student at the University of Sussex, working under the superivsion of Dr Peter Lush, Prof. Warrick Roseboom and Prof. Anil Seth. His interests span all over consciousness science. In his project, he's working on the cognitive penetrability of perception thesis, using insights from experimental hypnosis research to answer outstanding questions on the origin and nature of perceptual illusions. 
 
 [Twitter](http://twitter.com/miguelo93)
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### <span style="color:#5F4B66">Nadine Spychala (She/Her)</span>
 <img src="images/nadine-modified.png" alt="drawing" style="width:200px;height:200px;float:left; padding-right:20px; text-align:justify; padding-bottom: 80px;"/>
