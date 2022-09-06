@@ -3,8 +3,8 @@
 ###  21st OCTOBER 2022
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 #### <span style="color:red; text-align: center">****REGISTER HERE !!****</span>
+{: style="text-align: center;"}
 ![Logo](logo1.png){: .center-image}
-#### <span style="color:red; text-align: center">****REGISTER HERE !!****</span>
 
 [Speakers](#speakers) - [Schedule](#schedule) - [Organizers](#organizers)
 {: style="text-align: center;"}
@@ -28,7 +28,7 @@ The event is organized within the "Sensation and Perception to Awareness: Leverh
 <summary style="font-size: 20px;">Bio</summary>
 <br>
 Associate Professor Joseph Lizier (PhD, 2010) is a member of the School of Computer Science in the Faculty of Engineering at The University of Sydney (since 2015). His research studies the dynamics of information processing in biological and bio-inspired complex systems and networks, focussing both on fundamental theoretical advances as well as applications to neural systems and collective animal behaviour. He is a lead developer of the JIDT and IDTxl toolboxes for using information theory to characterise dynamics of information flows and effective structure of complex systems time-series. A/Prof. Lizier teaches into the University's Master of Complex Systems degree, and is a deputy director of the Centre for Complex Systems. He is a member of the editorial boards of Entropy, Complexity, Theory in Bioscience, Complex Systems, and Frontiers in Robotics and AI. He has held postdoctoral positions at CSIRO and Max Planck Institute Leipzig, and worked in the telecommunications industry for 10 years, including at Seeker Wireless and Telstra Research Laboratories.</details>
-<img src="images/separator.png" alt="drawing"  class="center-image" style="width:100%; height:80px"/>
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 ### <span style="color:#5F4B66; text-align: center">Romaine Brette</span>
 
 <img src="images/romain.png" alt="drawing" class="center-image" style="width:200px;height:200px;"/>
@@ -89,28 +89,28 @@ bio
 </style>
 | TIME (GMT +1 - London) | Speaker          | Talk Title |
 |:-----------------------:|:----------------:|:----------:|
-|       2:30-3:00pm       | Joseph Lizier    | ["Enabling tools to model information processing in complex systems"](#)|
-|       3:00-3:30pm       | Romaine Brette   | "Computation in the brain"|
-|       3:30-4:00pm       | Gael Varoquax    | TBA        |
+|       2:30-3:00pm       | Joseph Lizier    | ["Enabling tools to model information processing in complex systems"](#speaker-jospeh-lizier)|
+|       3:00-3:30pm       | Romaine Brette   | ["Computation in the brain"](#speaker-romain-brette)|
+|       3:30-4:00pm       | Gael Varoquax    | [TBA](#speaker-gael-varoquaux)        |
 |       4:00-4:30pm       | BREAK            |            |
-|       4:30-5:00pm       | Konrad Kording   | "Causality in the Brain"|
-|       5:00:5:30pm       | Jessica Flack    | TBA        |
-|       5:30-5:45pm       | Melanie Mitchell | "Why AI is Harder Than We Think"|
+|       4:30-5:00pm       | Konrad Kording   | ["Causality in the Brain"](#speaker-konrad-kording)|
+|       5:00:5:30pm       | Jessica Flack    | [TBA](#speaker-jessica-flack)        |
+|       5:30-5:45pm       | Melanie Mitchell | ["Why AI is Harder Than We Think"](#speaker-melanie-mitchell)|
 |       5:45-6:45pm       | PANEL DISCUSSION |            |
 {: .tablelines}
 
 ## <span style="color:#2C1320">Abstracts</span>
 
-**Speaker:** Joseph Lizier
+#### **Speaker:** Joseph Lizier
 
-#### **Talk title:** "Enabling tools to model information processing in complex systems"
+**Talk title:** "Enabling tools to model information processing in complex systems"
 
 **Time:** 2:30pm GMT +1
 
 <p ><strong>Abstract:</strong> The space-time dynamics of interactions in complex systems are often described using terminology of information processing, or distributed computation, in particular with reference to information being stored, transferred and modified in these systems. In this talk, I will introduce an information-theoretic framework -- information dynamics -- that we use to model each of these operations on information within a complex system, and their dynamics in space and time. Not only does this framework quantitatively align with natural qualitative descriptions of information processing in neural and other systems, it provides multiple complementary perspectives on how, where and why a system is exhibiting complexity. Specifically, I will describe tools we have produced to enable quantitative analysis of such information processing, including both theoretical advances (such as how to measure information flows between spike trains) and software toolkits (including JIDT and IDTxl). I will focus specifically on the interaction between theory, enabling tools and applications, and how we have addressed methodological challenges at their intersection.</p>
 <img src="images/separator.png" alt="drawing"  class="center-image" style="width:100%; height:80px"/>
 
-**Speaker:** Romain Brette
+#### **Speaker:** Romain Brette
 
 **Talk title:** "Computation in the brain"
 
@@ -119,7 +119,7 @@ bio
 <p><strong>Abstract:</strong>  It is often taken for granted that brains compute over neural representations. Traditionally, this means that properties of neural activity play the role of variables in correspondence with properties of things in the world, while brain processes play the role of algorithms that manipulate those variables. This claim is based on implicit assumptions, which require closer examination. The first one is that all behavior is computational. To the extent that “computational” is meaningful, this is false. The second one is neural reductionism: the idea that alleged psychological units (such as the percept of a face) must correspond to neurophysiological units (activity of specific neurons or groups of neurons), rather than to a mode of activity of the brain. The third one is that neural representations correspond to neurophysiological states, which can then be governed by computational processes. But neural representations are not brain states: they are experimental measurements of firing rates over an extended period after a presented stimulus; that is, they are already properties of brain processes. This confusion undermines the coherence of neurocomputationalism.</p>
 <img src="images/separator.png" alt="drawing"  class="center-image" style="width:100%; height:80px"/>
 
-**Speaker:** Gael Varoquax 
+#### **Speaker:** Gael Varoquax 
 
 **Talk title: TBA** 
 
@@ -129,7 +129,7 @@ bio
 </p>
 <img src="images/separator.png" alt="drawing"  class="center-image" style="width:100%; height:80px"/>
 
-**Speaker:** Konrad Kording 
+#### **Speaker:** Konrad Kording 
 
 **Talk title:** "Causality in the brain"
 
@@ -140,7 +140,7 @@ bio
 
 <img src="images/separator.png" alt="drawing"  class="center-image" style="width:100%; height:80px"/>
 
-**Speaker:** Jessica Flack
+#### **Speaker:** Jessica Flack
 
 **Talk title: TBA** 
 
@@ -151,7 +151,7 @@ bio
 
 <img src="images/separator.png" alt="drawing"  class="center-image" style="width:100%; height:80px"/>
 
-**Speaker:** Melanie Mitchell
+#### **Speaker:** Melanie Mitchell
 
 **Talk title:** "Why AI is Harder Than We Think"
 
