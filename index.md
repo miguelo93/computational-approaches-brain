@@ -46,6 +46,7 @@ Romain Brette is a theoretical neuroscientist in Paris who has worked in cellula
 
 [Personal Website](https://gael-varoquaux.info/) - [Twitter](https://twitter.com/gaelvaroquaux) - [Google Scholar](https://scholar.google.com/citations?user=OGGu384AAAAJ&hl=en) - [GitHub](https://github.com/GaelVaroquaux)
 {: style="text-align: center;"}
+<details>
 <summary style="font-size: 20px;">Bio</summary>
 <br>
 Gael Varoquax is the Research Director of soda at Inria (National Institute for Research in Digital Science and Technology, in Paris). He's also the director of the [scikit-learn operations at Inria foundation](https://scikit-learn.fondation-inria.fr/home/). His research focuses on the use of machine learning in the public/mental health sector, and its potential in understanding cognition and brain activity.
@@ -62,6 +63,7 @@ Gael Varoquax is the Research Director of soda at Inria (National Institute for 
 
 [Personal Website](https://c4.santafe.edu/people/c4Jessica/) - [Twitter](https://twitter.com/c4computation?lang=en) 
 {: style="text-align: center;"}
+<details>
 <summary style="font-size: 20px;">Bio</summary>
 <br>
 Prof. Flack is a professor at Sante Fe Institute, New Mexico, where she runs Collective Computation Group. Her research focuses on evolutionary theory, cognitive neuroscience and behavior, statistical mechanics, information theory, dynamical systems and theoretical computer science to study the roles of information processing and collective computation in the emergence of robust structure and function in adaptive systems.
@@ -73,6 +75,7 @@ Prof. Flack is a professor at Sante Fe Institute, New Mexico, where she runs Col
 
 [Personal Website](https://melaniemitchell.me/) - [Twitter](https://twitter.com/MelMitchell1) - [Google Scholar](https://scholar.google.com/citations?user=4xK5uaQAAAAJ&hl=en))
 {: style="text-align: center;"}
+<details>
 <summary style="font-size: 20px;">Bio</summary>
 <br>
 bio
@@ -86,7 +89,7 @@ bio
 </style>
 | TIME (GMT +1 - London) | Speaker          | Talk Title |
 |:-----------------------:|:----------------:|:----------:|
-|       2:30-3:00pm       | Joseph Lizier    | "Enabling tools to model information processing in complex systems"|
+|       2:30-3:00pm       | Joseph Lizier    | ["Enabling tools to model information processing in complex systems"](#)|
 |       3:00-3:30pm       | Romaine Brette   | "Computation in the brain"|
 |       3:30-4:00pm       | Gael Varoquax    | TBA        |
 |       4:00-4:30pm       | BREAK            |            |
@@ -100,7 +103,7 @@ bio
 
 **Speaker:** Joseph Lizier
 
-**Talk title:** "Enabling tools to model information processing in complex systems"
+#### **Talk title:** "Enabling tools to model information processing in complex systems"
 
 **Time:** 2:30pm GMT +1
 
