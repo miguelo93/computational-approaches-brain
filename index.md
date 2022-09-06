@@ -174,6 +174,7 @@ The symposium is organized within the ['Sensation and Perception to Awareness: L
 <img src="images/tomek.png" alt="drawing" style="width:200px;height:200px;float:left; padding-right:20px; text-align:justify"/>In his doctoral project, Tomek is working on deep reinforcement learning and generative models with Chris Buckley and Anil Seth. He focuses on probabilistic approaches to control, such as active inference and control-as-inference, and controllable generative modelling.
 
 [Personal Website](https://tomekkorbak.com/) - [Twitter](http://twitter.com/tomekkorbak) - [Google Scholar](http://scholar.google.com/citations?user=YQ5rrk4AAAAJ) - [Github](http://github.com/tomekkorbak) - [Linkedin](http://linkedin.com/in/tomaszkorbak)
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### <span style="color:#5F4B66">Federico Micheli (He/Him)</span>
@@ -181,6 +182,7 @@ The symposium is organized within the ['Sensation and Perception to Awareness: L
 Federico is a PhD student at the University of Sussex, working under the superivsion of Dr Peter Lush, Prof. Warrick Roseboom and Prof. Anil Seth. His interests span all over consciousness science. In his project, he's working on the cognitive penetrability of perception thesis, using insights from experimental hypnosis research to answer outstanding questions on the origin and nature of perceptual illusions. 
 
 [Twitter](http://twitter.com/miguelo93)
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### <span style="color:#5F4B66">Nadine Spychala (She/Her)</span>
