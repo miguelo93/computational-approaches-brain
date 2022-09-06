@@ -24,7 +24,7 @@ The event is organized within the "Sensation and Perception to Awareness: Leverh
 
 [Personal Website](https://lizier.me/joseph/) - [Twitter](https://twitter.com/jlizier) - [Google Scholar](https://scholar.google.com/citations?user=QJwapBoAAAAJ&hl=en) - [GitHub](https://github.com/jlizier)
 {: style="text-align: center;"}
-<details>
+<details style="text-align: justify;font-size: 20px;">
 <summary style="font-size: 20px;">Bio</summary>
 <br>
 Associate Professor Joseph Lizier (PhD, 2010) is a member of the School of Computer Science in the Faculty of Engineering at The University of Sydney (since 2015). His research studies the dynamics of information processing in biological and bio-inspired complex systems and networks, focussing both on fundamental theoretical advances as well as applications to neural systems and collective animal behaviour. He is a lead developer of the JIDT and IDTxl toolboxes for using information theory to characterise dynamics of information flows and effective structure of complex systems time-series. A/Prof. Lizier teaches into the University's Master of Complex Systems degree, and is a deputy director of the Centre for Complex Systems. He is a member of the editorial boards of Entropy, Complexity, Theory in Bioscience, Complex Systems, and Frontiers in Robotics and AI. He has held postdoctoral positions at CSIRO and Max Planck Institute Leipzig, and worked in the telecommunications industry for 10 years, including at Seeker Wireless and Telstra Research Laboratories.</details>
@@ -35,7 +35,7 @@ Associate Professor Joseph Lizier (PhD, 2010) is a member of the School of Compu
 
 [Personal Website](http://romainbrette.fr/) - [Twitter](https://twitter.com/RomainBrette) - [Google Scholar](https://scholar.google.com/citations?hl=en&user=lEHiPU4AAAAJ) - [GitHub](https://github.com/romainbrette)
 {: style="text-align: center;"}
-<details>
+<details style="text-align: justify;font-size: 20px;">
 <summary style="font-size: 20px;">Bio</summary>
 <br>
 Romain Brette is a theoretical neuroscientist in Paris who has worked in cellular biophysics and systems neuroscience, specifically on modelling auditory perception. This work has led him to reflect on the foundational concepts of neural modeling and computational neuroscience, such as neural codes, computation and information.
@@ -46,7 +46,7 @@ Romain Brette is a theoretical neuroscientist in Paris who has worked in cellula
 
 [Personal Website](https://gael-varoquaux.info/) - [Twitter](https://twitter.com/gaelvaroquaux) - [Google Scholar](https://scholar.google.com/citations?user=OGGu384AAAAJ&hl=en) - [GitHub](https://github.com/GaelVaroquaux)
 {: style="text-align: center;"}
-<details>
+<details style="text-align: justify;font-size: 20px;">
 <summary style="font-size: 20px;">Bio</summary>
 <br>
 Gael Varoquax is the Research Director of soda at Inria (National Institute for Research in Digital Science and Technology, in Paris). He's also the director of the [scikit-learn operations at Inria foundation](https://scikit-learn.fondation-inria.fr/home/). His research focuses on the use of machine learning in the public/mental health sector, and its potential in understanding cognition and brain activity.
@@ -57,7 +57,7 @@ Gael Varoquax is the Research Director of soda at Inria (National Institute for 
 
 [Personal Website](http://koerding.com/) - [Twitter](https://twitter.com/KordingLab?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) - [Google Scholar](https://scholar.google.com/citations?user=MiFqJGcAAAAJ&hl=en) - [GitHub](https://github.com/KordingLab)
 {: style="text-align: center;"}
-<details>
+<details style="text-align: justify;font-size: 20px;">
 <summary style="font-size: 20px;">Bio</summary>
 <br>
 Dr. Kording (He/Him) is trying to understand how the world and in particular the brain works using data. Early research in the lab focused on computational neuroscience and in particular movement. But as the approaches matured, the focus has more been on discovering ways in which new data sources as well as emerging data analysis can enable awesome possibilities. The current focus is on Causality in Data science applications - how do we know how things work if we can not randomize? But we are also very much excited about understanding how the brain does credit assignment. Our style of working is transdisciplinary, we collaborate on virtually every project
@@ -68,7 +68,7 @@ Dr. Kording (He/Him) is trying to understand how the world and in particular the
 
 [Personal Website](https://c4.santafe.edu/people/c4Jessica/) - [Twitter](https://twitter.com/c4computation?lang=en) 
 {: style="text-align: center;"}
-<details>
+<details style="text-align: justify;font-size: 20px;">
 <summary style="font-size: 20px;">Bio</summary>
 <br>
 Prof. Flack is a professor at Sante Fe Institute, New Mexico, where she runs Collective Computation Group. Her research focuses on evolutionary theory, cognitive neuroscience and behavior, statistical mechanics, information theory, dynamical systems and theoretical computer science to study the roles of information processing and collective computation in the emergence of robust structure and function in adaptive systems.
@@ -80,7 +80,7 @@ Prof. Flack is a professor at Sante Fe Institute, New Mexico, where she runs Col
 
 [Personal Website](https://melaniemitchell.me/) - [Twitter](https://twitter.com/MelMitchell1) - [Google Scholar](https://scholar.google.com/citations?user=4xK5uaQAAAAJ&hl=en)
 {: style="text-align: center;"}
-<details>
+<details style="text-align: justify;font-size: 20px;">
 <summary style="font-size: 20px;">Bio</summary>
 <br>
 bio
