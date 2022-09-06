@@ -24,41 +24,25 @@ The event is organized within the "Sensation and Perception to Awareness: Leverh
 
 [Personal Website](https://lizier.me/joseph/) - [Twitter](https://twitter.com/jlizier) - [Google Scholar](https://scholar.google.com/citations?user=QJwapBoAAAAJ&hl=en) - [GitHub](https://github.com/jlizier)
 {: style="text-align: center;"}
-
 <img src="images/separator.png" alt="drawing"  class="center-image" style="width:100%; height:80px"/>
 ### <span style="color:#5F4B66; text-align: center">Romaine Brette</span>
 
 <img src="images/romain.png" alt="drawing" class="center-image" style="width:200px;height:200px;"/>
 
-
 [Personal Website](http://romainbrette.fr/) - [Twitter](https://twitter.com/RomainBrette) - [Google Scholar](https://scholar.google.com/citations?hl=en&user=lEHiPU4AAAAJ) - [GitHub](https://github.com/romainbrette)
 {: style="text-align: center;"}
-
 <img src="images/separator.png" alt="drawing"  class="center-image" style="width:100%; height:80px"/>
 ### <span style="color:#5F4B66; text-align: center">Gael Varoquax</span>
 <img src="images/gael.png" alt="drawing" class="center-image" style="width:200px;height:200px;"/>
 
-**Talk title: TBA** 
-
-<p ><strong>Abstract: TBA</strong>
-</p>
-
-**Bio:** Gael Varoquax is the Research Director of soda at Inria (National Institute for Research in Digital Science and Technology, in Paris). He's also the director of the [scikit-learn operations at Inria foundation](https://scikit-learn.fondation-inria.fr/home/). His research focuses on the use of machine learning in the public/mental health sector, and its potential in understanding cognition and brain activity.
-
 [Personal Website](https://gael-varoquaux.info/) - [Twitter](https://twitter.com/gaelvaroquaux) - [Google Scholar](https://scholar.google.com/citations?user=OGGu384AAAAJ&hl=en) - [GitHub](https://github.com/GaelVaroquaux)
-
+{: style="text-align: center;"}
 <img src="images/separator.png" alt="drawing"  class="center-image" style="width:100%; height:80px"/>
 ### <span style="color:#5F4B66; text-align: center">Konrad Kording</span>
 <img src="images/konrad.png" alt="drawing" class="center-image" style="width:200px;height:200px;"/>
 
-**Talk title:** "Causality in the brain"
-
-<p ><strong>Abstract:</strong> Konrad Kording will introduce the conceptual role that causation plays in most neuroscientists ways of thinking about the brain – both in the context of medical applications and in the context of basic research. He will contrast this conceptual role with the limitations of scientists to experimentally get at causality. Perturbation, the one methods that does allow reliably establishing causality does not scale to high dimensions. This makes understanding a complex system with many interacting parts highly problematic. He will end with an overview of coming approaches, in particular connectomics, that may change the current status quo in neural causality research.
-</p>
-
-**Bio:** Dr. Kording (He/Him) is trying to understand how the world and in particular the brain works using data. Early research in the lab focused on computational neuroscience and in particular movement. But as the approaches matured, the focus has more been on discovering ways in which new data sources as well as emerging data analysis can enable awesome possibilities. The current focus is on Causality in Data science applications - how do we know how things work if we can not randomize? But we are also very much excited about understanding how the brain does credit assignment. Our style of working is transdisciplinary, we collaborate on virtually every project
-
 [Personal Website](http://koerding.com/) - [Twitter](https://twitter.com/KordingLab?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) - [Google Scholar](https://scholar.google.com/citations?user=MiFqJGcAAAAJ&hl=en) - [GitHub](https://github.com/KordingLab)
+{: style="text-align: center;"}
 <img src="images/separator.png" alt="drawing"  class="center-image" style="width:100%; height:80px"/>
 ### <span style="color:#5F4B66; text-align: center">Jessica Flack</span>
 <img src="images/JessicaFlack-modified.png" alt="drawing" class="center-image" style="width:200px;height:200px;"/>
@@ -111,7 +95,6 @@ One reason for these repeating cycles is our limited understanding of the nature
 **Talk title:** "Enabling tools to model information processing in complex systems"
 
 <p ><strong>Abstract:</strong> The space-time dynamics of interactions in complex systems are often described using terminology of information processing, or distributed computation, in particular with reference to information being stored, transferred and modified in these systems. In this talk, I will introduce an information-theoretic framework -- information dynamics -- that we use to model each of these operations on information within a complex system, and their dynamics in space and time. Not only does this framework quantitatively align with natural qualitative descriptions of information processing in neural and other systems, it provides multiple complementary perspectives on how, where and why a system is exhibiting complexity. Specifically, I will describe tools we have produced to enable quantitative analysis of such information processing, including both theoretical advances (such as how to measure information flows between spike trains) and software toolkits (including JIDT and IDTxl). I will focus specifically on the interaction between theory, enabling tools and applications, and how we have addressed methodological challenges at their intersection.</p>
-
 <img src="images/separator.png" alt="drawing"  class="center-image" style="width:100%; height:80px"/>
 
 **Speaker:** Romain Brette
@@ -119,6 +102,24 @@ One reason for these repeating cycles is our limited understanding of the nature
 **Talk title:** "Computation in the brain"
 
 <p><strong>Abstract:</strong>  It is often taken for granted that brains compute over neural representations. Traditionally, this means that properties of neural activity play the role of variables in correspondence with properties of things in the world, while brain processes play the role of algorithms that manipulate those variables. This claim is based on implicit assumptions, which require closer examination. The first one is that all behavior is computational. To the extent that “computational” is meaningful, this is false. The second one is neural reductionism: the idea that alleged psychological units (such as the percept of a face) must correspond to neurophysiological units (activity of specific neurons or groups of neurons), rather than to a mode of activity of the brain. The third one is that neural representations correspond to neurophysiological states, which can then be governed by computational processes. But neural representations are not brain states: they are experimental measurements of firing rates over an extended period after a presented stimulus; that is, they are already properties of brain processes. This confusion undermines the coherence of neurocomputationalism.</p>
+<img src="images/separator.png" alt="drawing"  class="center-image" style="width:100%; height:80px"/>
+
+**Speaker:** Gael Varoquax 
+
+**Talk title: TBA** 
+
+<p ><strong>Abstract: TBA</strong>
+</p>
+<img src="images/separator.png" alt="drawing"  class="center-image" style="width:100%; height:80px"/>
+
+**Speaker:** Konrad Kording 
+
+**Talk title:** "Causality in the brain"
+
+<p ><strong>Abstract:</strong> Konrad Kording will introduce the conceptual role that causation plays in most neuroscientists ways of thinking about the brain – both in the context of medical applications and in the context of basic research. He will contrast this conceptual role with the limitations of scientists to experimentally get at causality. Perturbation, the one methods that does allow reliably establishing causality does not scale to high dimensions. This makes understanding a complex system with many interacting parts highly problematic. He will end with an overview of coming approaches, in particular connectomics, that may change the current status quo in neural causality research.
+</p>
+
+<img src="images/separator.png" alt="drawing"  class="center-image" style="width:100%; height:80px"/>
 
 
 ## <span style="color:#2C1320">Bio</span>
@@ -129,8 +130,15 @@ Associate Professor Joseph Lizier (PhD, 2010) is a member of the School of Compu
 
 ### Romain Brette
 
-
 Romain Brette is a theoretical neuroscientist in Paris who has worked in cellular biophysics and systems neuroscience, specifically on modelling auditory perception. This work has led him to reflect on the foundational concepts of neural modeling and computational neuroscience, such as neural codes, computation and information.
+
+### Gael Varoquax
+
+Gael Varoquax is the Research Director of soda at Inria (National Institute for Research in Digital Science and Technology, in Paris). He's also the director of the [scikit-learn operations at Inria foundation](https://scikit-learn.fondation-inria.fr/home/). His research focuses on the use of machine learning in the public/mental health sector, and its potential in understanding cognition and brain activity.
+
+### Konrad Kording
+
+Dr. Kording (He/Him) is trying to understand how the world and in particular the brain works using data. Early research in the lab focused on computational neuroscience and in particular movement. But as the approaches matured, the focus has more been on discovering ways in which new data sources as well as emerging data analysis can enable awesome possibilities. The current focus is on Causality in Data science applications - how do we know how things work if we can not randomize? But we are also very much excited about understanding how the brain does credit assignment. Our style of working is transdisciplinary, we collaborate on virtually every project
 
 ## <span style="color:#2C1320">Organizers</span>
 ![sussuex](unilogo.png){: .logo}<br>
