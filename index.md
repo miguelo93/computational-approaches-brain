@@ -32,17 +32,17 @@ The event is organized within the "Sensation and Perception to Awareness: Leverh
     <tr>
       <td style="text-align: center">2:00-2:30pm</td>
       <td style="text-align: center">Joseph Lizier</td>
-      <td style="text-align: center"><a href="#joseph-lizier">Enabling tools to model information processing in complex systems</a></td>
+      <td style="text-align: center"><a href="#joseph-lizier-hehim">Enabling tools to model information processing in complex systems</a></td>
     </tr>
     <tr>
       <td style="text-align: center">2:30-3:00pm</td>
       <td style="text-align: center">Romain Brette</td>
-      <td style="text-align: center"><a href="#romain-brette">Computation in the Brain</a></td>
+      <td style="text-align: center"><a href="#romain-brette-hehim">Computation in the Brain</a></td>
     </tr>
     <tr>
       <td style="text-align: center">3:00-3:30pm</td>
       <td style="text-align: center">Gael Varoquax</td>
-      <td style="text-align: center"><a href="#gael-varoquaux">TBA</a></td>
+      <td style="text-align: center"><a href="#gaël-varoquaux-hehim">TBA</a></td>
     </tr>
     <tr>
       <td style="text-align: center">3:30-4:00pm</td>
@@ -51,17 +51,17 @@ The event is organized within the "Sensation and Perception to Awareness: Leverh
     <tr>
       <td style="text-align: center">4:00-4:30pm</td>
       <td style="text-align: center">Konrad Kording</td>
-      <td style="text-align: center"><a href="#konrad-kording">Causality in the Brain</a></td>
+      <td style="text-align: center"><a href="#konrad-kording-hehim">Causality in the Brain</a></td>
     </tr>
     <tr>
       <td style="text-align: center">4:30:5:00pm</td>
       <td style="text-align: center">Jessica Flack</td>
-      <td style="text-align: center"><a href="#jessica-flack">TBA</a></td>
+      <td style="text-align: center"><a href="#jessica-flack-sheher">TBA</a></td>
     </tr>
     <tr>
       <td style="text-align: center">5:00-5:30pm</td>
       <td style="text-align: center">Melanie Mitchell</td>
-      <td style="text-align: center"><a href="#melanie-mitchell">Why AI is Harder Than We Think</a></td>
+      <td style="text-align: center"><a href="#melanie-mitchell-sheher">Why AI is Harder Than We Think</a></td>
     </tr>
     <tr><td style="text-align: center">5:30-5:45pm</td>
       <td colspan="2" style="text-align: center">BREAK</td>
