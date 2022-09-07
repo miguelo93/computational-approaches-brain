@@ -176,7 +176,7 @@ One reason for these repeating cycles is our limited understanding of the nature
 <details style="text-align: justify;font-size: 20px;">
 <summary style="font-size: 20px;">Bio</summary>
 <br>
-bio
+Melanie Mitchell is the Davis Professor at the Santa Fe Institute. Her current research focuses on conceptual abstraction, analogy-making, and visual recognition in artificial intelligence systems. Melanie is the author or editor of six books and numerous scholarly papers in the fields of artificial intelligence, cognitive science, and complex systems. Her book Complexity: A Guided Tour (Oxford University Press) won the 2010 Phi Beta Kappa Science Book Award and was named by Amazon.com as one of the ten best science books of 2009. Her latest book is Artificial Intelligence: A Guide for Thinking Humans (Farrar, Straus, and Giroux).
 </details>
 
 [Personal Website](https://melaniemitchell.me/) - [Twitter](https://twitter.com/MelMitchell1) - [Google Scholar](https://scholar.google.com/citations?user=4xK5uaQAAAAJ&hl=en)
