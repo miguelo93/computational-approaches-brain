@@ -17,6 +17,8 @@ This **one-day online event** will bring together researchers with expertise in 
 4. What are the current challenges in computational approaches to understand the mind, and what could bring progress?
 
 The event is organized within the "Sensation and Perception to Awareness: Leverhulme Doctoral Scholarship Programme" at the Univeristy of Sussex (find more info [here](#organizers)), and will comprise a set of talks followed by a panel discussion (see [schedule](#schedule)).
+
+If you have any question regarding the symposium, please feel free to write us at : [computational.mind@proton.me](mailto:computational.mind@proton.me)
 ## <span style="color:#2C1320">Schedule</span>
 
 <table class="tablelines">
