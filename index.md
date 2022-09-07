@@ -32,7 +32,7 @@ The event is organized within the "Sensation and Perception to Awareness: Leverh
 |       5:00:5:30pm       | Jessica Flack    | [TBA](#speaker-jessica-flack)        |
 |       5:30-5:45pm       | Melanie Mitchell | [Why AI is Harder Than We Think](#speaker-melanie-mitchell)|
 |       5:45-6:45pm       | PANEL DISCUSSION |            |
-
+{: .tablelines}
 ## <span style="color:#2C1320">Speakers</span>
 
 ### <span style="color:#5F4B66; text-align: center">Joseph Lizier</span>
