@@ -16,6 +16,23 @@ This one-day **online** event will bring together researchers with expertise in 
 4. What are the current challenges in computational approaches to understand the mind, and what could bring progress?
 
 The event is organized within the "Sensation and Perception to Awareness: Leverhulme Doctoral Scholarship Programme" at the Univeristy of Sussex (find more info [here](#organizers)), and will comprise a set of talks followed by a panel discussion (see [schedule](#schedule)).
+## <span style="color:#2C1320">Schedule</span>
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+        border: 1px solid black;
+        }
+</style>
+| TIME (GMT +1 - London) | Speaker          | Talk Title |
+|:-----------------------:|:----------------:|:----------:|
+|       2:30-3:00pm       | Joseph Lizier    | [Enabling tools to model information processing in complex systems](#speaker-jospeh-lizier)|
+|       3:00-3:30pm       | Romaine Brette   | [Computation in the Brain](#speaker-romain-brette)|
+|       3:30-4:00pm       | Gael Varoquax    | [TBA](#speaker-gael-varoquaux)        |
+|       4:00-4:30pm       | BREAK            |            |
+|       4:30-5:00pm       | Konrad Kording   | [Causality in the Brain"](#speaker-konrad-kording)|
+|       5:00:5:30pm       | Jessica Flack    | [TBA](#speaker-jessica-flack)        |
+|       5:30-5:45pm       | Melanie Mitchell | [Why AI is Harder Than We Think](#speaker-melanie-mitchell)|
+|       5:45-6:45pm       | PANEL DISCUSSION |            |
+
 ## <span style="color:#2C1320">Speakers</span>
 
 ### <span style="color:#5F4B66; text-align: center">Joseph Lizier</span>
