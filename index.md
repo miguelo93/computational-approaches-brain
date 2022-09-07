@@ -4,7 +4,7 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 #### <span style="color:red; text-align: center">****REGISTER HERE !!****</span>
 {: style="text-align: center;"}
-![Logo](logo1.png){: .center-image}
+![Logo](logo1-modified.png){: .center-image}
 
 [Speakers](#speakers) - [Schedule](#schedule) - [Abstracts](#abstracts) - [Organizers](#organizers)
 {: style="text-align: center;"}
