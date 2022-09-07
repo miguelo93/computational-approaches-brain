@@ -2,7 +2,7 @@
 ### Fundamental Challenges and Future Perspectives
 ###  21st OCTOBER 2022
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-#### <span style="color:red; text-align: center"><a stlye="color:red;" href = "https://forms.gle/MnhZZwp8RRrwHFkf7"><strong style="color: #D00F0F">****REGISTER HERE !!****</strong></a></span>
+#### <span style="color:red; text-align: center"><a stlye="color:red;" href = "https://forms.gle/MnhZZwp8RRrwHFkf7"><strong style="color: #D00F0F"> ****REGISTER HERE !!****</strong></a></span>
 {: style="text-align: center;"}
 ![Logo](images/logo1-modified.png){: .center-image}
 
@@ -97,7 +97,7 @@ Associate Professor Joseph Lizier (PhD, 2010) is a member of the School of Compu
 
 **Talk title:** "Computation in the brain"
 
-**Time:** 2:30pm GMT +1
+**Time:** 2:30pm UTC +1
 
 <p><strong>Abstract:</strong>  It is often taken for granted that brains compute over neural representations. Traditionally, this means that properties of neural activity play the role of variables in correspondence with properties of things in the world, while brain processes play the role of algorithms that manipulate those variables. This claim is based on implicit assumptions, which require closer examination. The first one is that all behavior is computational. To the extent that “computational” is meaningful, this is false. The second one is neural reductionism: the idea that alleged psychological units (such as the percept of a face) must correspond to neurophysiological units (activity of specific neurons or groups of neurons), rather than to a mode of activity of the brain. The third one is that neural representations correspond to neurophysiological states, which can then be governed by computational processes. But neural representations are not brain states: they are experimental measurements of firing rates over an extended period after a presented stimulus; that is, they are already properties of brain processes. This confusion undermines the coherence of neurocomputationalism.</p>
 <details style="text-align: justify;font-size: 20px;">
