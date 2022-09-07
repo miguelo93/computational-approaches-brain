@@ -90,7 +90,7 @@ Associate Professor Joseph Lizier (PhD, 2010) is a member of the School of Compu
 [Personal Website](https://lizier.me/joseph/) - [Twitter](https://twitter.com/jlizier) - [Google Scholar](https://scholar.google.com/citations?user=QJwapBoAAAAJ&hl=en) - [GitHub](https://github.com/jlizier)
 {: style="text-align: center;"}
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
-### <span style="color:#5F4B66; text-align: center">Romaine Brette</span>
+### <span style="color:#5F4B66; text-align: center">Romain Brette</span>
 
 <img src="images/romain.png" alt="drawing" class="center-image" style="width:200px;height:200px;"/>
 
