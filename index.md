@@ -1,6 +1,6 @@
 # <span style="color:#2C1320">Rethinking Computational Approaches to the Mind</span>
 ### Fundamental Challenges and Future Perspectives
-### One-day ONLINE SYMPOSIUM
+### One-day Online Symposium
 ### 21st OCTOBER 2022
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 #### <span style="color:red; text-align: center"><a stlye="color:red;" href = "https://forms.gle/MnhZZwp8RRrwHFkf7"><strong style="color: #D00F0F">**REGISTER HERE**</strong></a></span>
@@ -45,7 +45,7 @@ The event is organized within the "Sensation and Perception to Awareness: Leverh
     </tr>
     <tr>
       <td style="text-align: center">3:30-4:00pm</td>
-      <td colspan="2" style="text-align: center">**BREAK**</td>
+      <td colspan="2" style="text-align: center">BREAK</td>
       </tr>
     <tr>
       <td style="text-align: center">4:00-4:30pm</td>
@@ -63,10 +63,10 @@ The event is organized within the "Sensation and Perception to Awareness: Leverh
       <td style="text-align: center"><a href="#melanie-mitchell">Why AI is Harder Than We Think</a></td>
     </tr>
     <tr><td style="text-align: center">5:30-5:45pm</td>
-      <td colspan="2" style="text-align: center">**BREAK**</td>
+      <td colspan="2" style="text-align: center">BREAK</td>
       </tr><tr>
       <td style="text-align: center">5:45-6:45pm</td>
-      <td colspan="2" style="text-align: center">**PANEL DISCUSSION**</td>
+      <td colspan="2" style="text-align: center">PANEL DISCUSSION</td>
       </tr>
   </tbody>
 </table>
@@ -111,7 +111,7 @@ Romain Brette is a theoretical neuroscientist in Paris who has worked in cellula
 {: style="text-align: center;"}
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 ### <span style="color:#5F4B66; text-align: center">Gaël Varoquaux (He/Him)</span>
-<img src="images/GaelVaroquaux,jpg" alt="drawing" class="center-image" style="width:200px;height:200px;"/>
+<img src="images/GaelVaroquaux.jpg" alt="drawing" class="center-image" style="width:200px;height:200px;"/>
 
 **Talk title: TBA** 
 
