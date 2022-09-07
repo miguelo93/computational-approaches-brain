@@ -97,7 +97,7 @@ Associate Professor Joseph Lizier (PhD, 2010) is a member of the School of Compu
 
 **Talk title:** "Computation in the brain"
 
-**Time:** 3:00pm GMT +1
+**Time:** 2:30pm GMT +1
 
 <p><strong>Abstract:</strong>  It is often taken for granted that brains compute over neural representations. Traditionally, this means that properties of neural activity play the role of variables in correspondence with properties of things in the world, while brain processes play the role of algorithms that manipulate those variables. This claim is based on implicit assumptions, which require closer examination. The first one is that all behavior is computational. To the extent that “computational” is meaningful, this is false. The second one is neural reductionism: the idea that alleged psychological units (such as the percept of a face) must correspond to neurophysiological units (activity of specific neurons or groups of neurons), rather than to a mode of activity of the brain. The third one is that neural representations correspond to neurophysiological states, which can then be governed by computational processes. But neural representations are not brain states: they are experimental measurements of firing rates over an extended period after a presented stimulus; that is, they are already properties of brain processes. This confusion undermines the coherence of neurocomputationalism.</p>
 <details style="text-align: justify;font-size: 20px;">
@@ -114,14 +114,14 @@ Romain Brette is a theoretical neuroscientist in Paris who has worked in cellula
 
 **Talk title: TBA** 
 
-**Time:** 3:30pm GMT +1
+**Time:** 3:00pm GMT +1
 
 <p ><strong>Abstract: TBA</strong>
 </p>
 <details style="text-align: justify;font-size: 20px;">
 <summary style="font-size: 20px;">Bio</summary>
 <br>
-Gael Varoquax is the Research Director of soda at Inria (National Institute for Research in Digital Science and Technology, in Paris). He's also the director of the scikit-learn operations at Inria foundation(https://scikit-learn.fondation-inria.fr/home/). His research focuses on the use of machine learning in the public/mental health sector, and its potential in understanding cognition and brain activity.
+Gael Varoquax is the Research Director of soda at Inria (National Institute for Research in Digital Science and Technology, in Paris). He's also the director of the <a href ="https://scikit-learn.fondation-inria.fr/home/">scikit-learn operations at Inria foundation</a>. His research focuses on the use of machine learning in the public/mental health sector, and its potential in understanding cognition and brain activity.
 </details>
 
 [Personal Website](https://gael-varoquaux.info/) - [Twitter](https://twitter.com/gaelvaroquaux) - [Google Scholar](https://scholar.google.com/citations?user=OGGu384AAAAJ&hl=en) - [GitHub](https://github.com/GaelVaroquaux)
@@ -132,7 +132,7 @@ Gael Varoquax is the Research Director of soda at Inria (National Institute for 
 
 **Talk title:** "Causality in the brain"
 
-**Time:** 4:30pm GMT +1
+**Time:** 4:00pm GMT +1
 
 <p ><strong>Abstract:</strong> Konrad Kording will introduce the conceptual role that causation plays in most neuroscientists ways of thinking about the brain – both in the context of medical applications and in the context of basic research. He will contrast this conceptual role with the limitations of scientists to experimentally get at causality. Perturbation, the one methods that does allow reliably establishing causality does not scale to high dimensions. This makes understanding a complex system with many interacting parts highly problematic. He will end with an overview of coming approaches, in particular connectomics, that may change the current status quo in neural causality research.
 </p>
@@ -151,14 +151,14 @@ Dr. Kording (He/Him) is trying to understand how the world and in particular the
 
 **Talk title: TBA** 
 
-**Time:** 5:00pm GMT +1
+**Time:** 4:30pm GMT +1
 
 <p ><strong>Abstract: TBA</strong> 
 </p>
 <details style="text-align: justify;font-size: 20px;">
 <summary style="font-size: 20px;">Bio</summary>
 <br>
-Prof. Flack is a professor at Sante Fe Institute, New Mexico, where she runs Collective Computation Group. Her research focuses on evolutionary theory, cognitive neuroscience and behavior, statistical mechanics, information theory, dynamical systems and theoretical computer science to study the roles of information processing and collective computation in the emergence of robust structure and function in adaptive systems.
+Prof. Flack is a professor at Sante Fe Institute, New Mexico, where she runs the Collective Computation Group. Her research focuses on evolutionary theory, cognitive neuroscience and behavior, statistical mechanics, information theory, dynamical systems and theoretical computer science to study the roles of information processing and collective computation in the emergence of robust structure and function in adaptive systems.
 </details>
 
 [Personal Website](https://c4.santafe.edu/people/c4Jessica/) - [Twitter](https://twitter.com/c4computation?lang=en) 
@@ -169,7 +169,7 @@ Prof. Flack is a professor at Sante Fe Institute, New Mexico, where she runs Col
 
 **Talk title:** "Why AI is Harder Than We Think"
 
-**Time:** 5:30pm GMT +1
+**Time:** 5:00pm GMT +1
 
 <p ><strong>Abstract:</strong> Since its beginning in the 1950s, the field of artificial intelligence has cycled several times between periods of optimistic predictions and massive investment (“AI Spring”) and periods of disappointment, loss of confidence, and reduced funding (“AI Winter”). Even with today’s seemingly fast pace of AI breakthroughs, the development of long-promised technologies such as self-driving cars, housekeeping robots, and conversational companions has turned out to be much harder than many people expected.
 One reason for these repeating cycles is our limited understanding of the nature and complexity of intelligence itself.  In this talk I will discuss some fallacies in common assumptions made by AI researchers, which can lead to overconfident predictions about the field. I will also speculate on what kinds of new ideas and new science will be needed for the grand challenge of making AI systems more robust, general, and adaptable—in short, more intelligent.</p>
