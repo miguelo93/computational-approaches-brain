@@ -1,14 +1,15 @@
 # <span style="color:#2C1320">Rethinking Computational Approaches to the Mind</span>
 ### Fundamental Challenges and Future Perspectives
-###  21st OCTOBER 2022
+### One-day ONLINE SYMPOSIUM
+### 21st OCTOBER 2022
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-#### <span style="color:red; text-align: center"><a stlye="color:red;" href = "https://forms.gle/MnhZZwp8RRrwHFkf7"><strong style="color: #D00F0F">****REGISTER HERE !!****</strong></a></span>
+#### <span style="color:red; text-align: center"><a stlye="color:red;" href = "https://forms.gle/MnhZZwp8RRrwHFkf7"><strong style="color: #D00F0F">**REGISTER HERE**</strong></a></span>
 {: style="text-align: center;"}
 ![Logo](images/logo1-modified.png){: .center-image}
 
 [Schedule](#schedule) - [Speakers](#speakers) - [Organizers](#organizers)
 {: style="text-align: center;"}
-This one-day **online** event will bring together researchers with expertise in various areas such as complexity science, machine learning & artificial intelligence, information theory & data science, as well as computational/theoretical neuroscience & philosophy to explore different computational approaches in the study of the "mind" (in brains and/or machines): 
+This **one-day online event** will bring together researchers with expertise in various areas such as complexity science, machine learning & artificial intelligence, information theory & data science, and computational/theoretical neuroscience & philosophy to explore different computational approaches in the study of the "mind" (in brains and/or machines): 
 
 1. What are those approaches essentially about? 
 2. What are major benefits & caveats? 
@@ -44,12 +45,12 @@ The event is organized within the "Sensation and Perception to Awareness: Leverh
     </tr>
     <tr>
       <td style="text-align: center">3:30-4:00pm</td>
-      <td colspan="2" style="text-align: center">BREAK</td>
+      <td colspan="2" style="text-align: center">**BREAK**</td>
       </tr>
     <tr>
       <td style="text-align: center">4:00-4:30pm</td>
       <td style="text-align: center">Konrad Kording</td>
-      <td style="text-align: center"><a href="#konrad-kording">Causality in the Brain”</a></td>
+      <td style="text-align: center"><a href="#konrad-kording">Causality in the Brain</a></td>
     </tr>
     <tr>
       <td style="text-align: center">4:30:5:00pm</td>
@@ -62,21 +63,21 @@ The event is organized within the "Sensation and Perception to Awareness: Leverh
       <td style="text-align: center"><a href="#melanie-mitchell">Why AI is Harder Than We Think</a></td>
     </tr>
     <tr><td style="text-align: center">5:30-5:45pm</td>
-      <td colspan="2" style="text-align: center">BREAK</td>
+      <td colspan="2" style="text-align: center">**BREAK**</td>
       </tr><tr>
-      <td style="text-align: center">5:45-7:00pm</td>
-      <td colspan="2" style="text-align: center">PANEL DISCUSSION</td>
+      <td style="text-align: center">5:45-6:45pm</td>
+      <td colspan="2" style="text-align: center">**PANEL DISCUSSION**</td>
       </tr>
   </tbody>
 </table>
 
 ## <span style="color:#2C1320">Speakers</span>
 
-### <span style="color:#5F4B66; text-align: center">Joseph Lizier</span>
+### <span style="color:#5F4B66; text-align: center">Joseph Lizier (He/Him)</span>
 
 <img src="images/joseph.png" alt="drawing" class="center-image" style="width:200px;height:200px;"/>
 
-**Talk title:** "Enabling tools to model information processing in complex systems"
+**Talk title:** Enabling tools to model information processing in complex systems
 
 **Time:** 2:00pm UTC +1
 
@@ -90,12 +91,12 @@ Associate Professor Joseph Lizier (PhD, 2010) is a member of the School of Compu
 [Personal Website](https://lizier.me/joseph/) - [Twitter](https://twitter.com/jlizier) - [Google Scholar](https://scholar.google.com/citations?user=QJwapBoAAAAJ&hl=en) - [GitHub](https://github.com/jlizier)
 {: style="text-align: center;"}
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
-### <span style="color:#5F4B66; text-align: center">Romain Brette</span>
+### <span style="color:#5F4B66; text-align: center">Romain Brette (He/Him)</span>
 
 <img src="images/romain.png" alt="drawing" class="center-image" style="width:200px;height:200px;"/>
 
 
-**Talk title:** "Computation in the brain"
+**Talk title:** Computation in the brain
 
 **Time:** 2:30pm GMT +1
 
@@ -109,8 +110,8 @@ Romain Brette is a theoretical neuroscientist in Paris who has worked in cellula
 [Personal Website](http://romainbrette.fr/) - [Twitter](https://twitter.com/RomainBrette) - [Google Scholar](https://scholar.google.com/citations?hl=en&user=lEHiPU4AAAAJ) - [GitHub](https://github.com/romainbrette)
 {: style="text-align: center;"}
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
-### <span style="color:#5F4B66; text-align: center">Gael Varoquax</span>
-<img src="images/gael.png" alt="drawing" class="center-image" style="width:200px;height:200px;"/>
+### <span style="color:#5F4B66; text-align: center">Gaël Varoquaux (He/Him)</span>
+<img src="images/GaelVaroquaux,jpg" alt="drawing" class="center-image" style="width:200px;height:200px;"/>
 
 **Talk title: TBA** 
 
@@ -121,16 +122,16 @@ Romain Brette is a theoretical neuroscientist in Paris who has worked in cellula
 <details style="text-align: justify;font-size: 20px;">
 <summary style="font-size: 20px;">Bio</summary>
 <br>
-Gael Varoquax is the Research Director of soda at Inria (National Institute for Research in Digital Science and Technology, in Paris). He's also the director of the <a href ="https://scikit-learn.fondation-inria.fr/home/">scikit-learn operations at Inria foundation</a>. His research focuses on the use of machine learning in the public/mental health sector, and its potential in understanding cognition and brain activity.
+Gaël Varoquaux is the Research Director of soda at Inria (National Institute for Research in Digital Science and Technology, Paris) and the <a href ="https://scikit-learn.fondation-inria.fr/home/">scikit-learn operations at Inria foundation</a>. He is a core contributor to scientific computing in Python ([scikit-learn](https://scikit-learn.org/stable/) [nilearn](https://nilearn.github.io/stable/index.html), and [dirty-cat](https://dirty-cat.github.io/stable/), amongst others), and focuses on the use of machine learning in the public/mental health sector, and its potential in understanding cognition and brain activity in his research.
 </details>
 
 [Personal Website](https://gael-varoquaux.info/) - [Twitter](https://twitter.com/gaelvaroquaux) - [Google Scholar](https://scholar.google.com/citations?user=OGGu384AAAAJ&hl=en) - [GitHub](https://github.com/GaelVaroquaux)
 {: style="text-align: center;"}
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
-### <span style="color:#5F4B66; text-align: center">Konrad Kording</span>
+### <span style="color:#5F4B66; text-align: center">Konrad Kording (He/Him)</span>
 <img src="images/konrad.png" alt="drawing" class="center-image" style="width:200px;height:200px;"/>
 
-**Talk title:** "Causality in the brain"
+**Talk title:** Causality in the brain
 
 **Time:** 4:00pm GMT +1
 
@@ -145,7 +146,7 @@ Dr. Kording (He/Him) is trying to understand how the world and in particular the
 [Personal Website](http://koerding.com/) - [Twitter](https://twitter.com/KordingLab?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) - [Google Scholar](https://scholar.google.com/citations?user=MiFqJGcAAAAJ&hl=en) - [GitHub](https://github.com/KordingLab)
 {: style="text-align: center;"}
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
-### <span style="color:#5F4B66; text-align: center">Jessica Flack</span>
+### <span style="color:#5F4B66; text-align: center">Jessica Flack (She/Her)</span>
 <img src="images/JessicaFlack-modified.png" alt="drawing" class="center-image" style="width:200px;height:200px;"/>
 
 
@@ -158,16 +159,16 @@ Dr. Kording (He/Him) is trying to understand how the world and in particular the
 <details style="text-align: justify;font-size: 20px;">
 <summary style="font-size: 20px;">Bio</summary>
 <br>
-Prof. Flack is a professor at Sante Fe Institute, New Mexico, where she runs the Collective Computation Group. Her research focuses on evolutionary theory, cognitive neuroscience and behavior, statistical mechanics, information theory, dynamical systems and theoretical computer science to study the roles of information processing and collective computation in the emergence of robust structure and function in adaptive systems.
+Jessica Flack is a professor at Sante Fe Institute, New Mexico, where she runs the Collective Computation Group. Her research uses evolutionary theory, cognitive neuroscience and behavior, statistical mechanics, information theory, dynamical systems and theoretical computer science to study the roles of information processing and collective computation in the emergence of robust structure and function in adaptive systems.
 </details>
 
 [Personal Website](https://c4.santafe.edu/people/c4Jessica/) - [Twitter](https://twitter.com/c4computation?lang=en) 
 {: style="text-align: center;"}
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
-### <span style="color:#5F4B66; text-align: center">Melanie Mitchell</span>
+### <span style="color:#5F4B66; text-align: center">Melanie Mitchell (She/Her)</span>
 <img src="images/melanie.png" alt="drawing" class="center-image" style="width:200px;height:200px;"/>
 
-**Talk title:** "Why AI is Harder Than We Think"
+**Talk title:** Why AI is Harder Than We Think
 
 **Time:** 5:00pm GMT +1
 
@@ -186,16 +187,16 @@ Melanie Mitchell is the Davis Professor at the Santa Fe Institute. Her current r
 ## <span style="color:#2C1320">Organizers</span>
 ![sussuex](unilogo.png){: .logo}<br>
 The symposium is organized within the ['Sensation and Perception to Awareness: Leverhulme Doctoral Scholarship Programme'](https://www.sussex.ac.uk/sensation/) directed by Jamie Ward and Anil Seth at the University of Sussex. It brings together researchers from across neuroscience, philosophy, psychology, robotics, and the arts, with the aim of advancing our understanding of interactions between sensation, perception, and awareness in humans, animals, and machines. As part of the programme, doctoral researchers are encouraged to be involved in seminar and conference organisation. For this symposium, the organizers are:
-### <span style="color:#5F4B66">Tomasz Korbak</span>
+### <span style="color:#5F4B66">Tomasz Korbak (He/Him)</span>
 <img src="images/tomek.png" alt="drawing" style="width:200px;height:200px;float:left; padding-right:20px; text-align:justify"/>In his doctoral project, Tomek is working on deep reinforcement learning and generative models with Chris Buckley and Anil Seth. He focuses on probabilistic approaches to control, such as active inference and control-as-inference, and controllable generative modelling.
 
-[Personal Website](https://tomekkorbak.com/) - [Twitter](http://twitter.com/tomekkorbak) - [Google Scholar](http://scholar.google.com/citations?user=YQ5rrk4AAAAJ) - [Github](http://github.com/tomekkorbak) - [Linkedin](http://linkedin.com/in/tomaszkorbak)
+[Personal Website](https://tomekkorbak.com/) - [Twitter](http://twitter.com/tomekkorbak) - [Google Scholar](http://scholar.google.com/citations?user=YQ5rrk4AAAAJ) - [Github](http://github.com/tomekkorbak) - [LinkedIn](http://linkedin.com/in/tomaszkorbak)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### <span style="color:#5F4B66">Federico Micheli (He/Him)</span>
 <img src="images/Federico-modified.png" alt="drawing" style="width:200px;height:200px;float:left; padding-right:20px; text-align:justify; padding-bottom: 30px;"/>
-Federico is a PhD student at the University of Sussex, working under the superivsion of Dr Peter Lush, Prof. Warrick Roseboom and Prof. Anil Seth. His interests span all over consciousness science. In his project, he's working on the cognitive penetrability of perception thesis, using insights from experimental hypnosis research to answer outstanding questions on the origin and nature of perceptual illusions. 
+Federico is a PhD student at the University of Sussex, working under the superivsion of Dr. Peter Lush, Prof. Warrick Roseboom and Prof. Anil Seth. His interests span all over consciousness science. In his project, he's working on the cognitive penetrability of perception thesis, using insights from experimental hypnosis research to answer outstanding questions on the origin and nature of perceptual illusions. 
 
 [Twitter](http://twitter.com/miguelo93)
 
