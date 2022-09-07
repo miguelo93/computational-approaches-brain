@@ -17,11 +17,7 @@ This one-day **online** event will bring together researchers with expertise in 
 
 The event is organized within the "Sensation and Perception to Awareness: Leverhulme Doctoral Scholarship Programme" at the Univeristy of Sussex (find more info [here](#organizers)), and will comprise a set of talks followed by a panel discussion (see [schedule](#schedule)).
 ## <span style="color:#2C1320">Schedule</span>
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-        border: 1px solid black;
-        }
-</style>
+
 | TIME (GMT +1 - London) | Speaker          | Talk Title |
 |:-----------------------:|:----------------:|:----------:|
 |       2:30-3:00pm       | Joseph Lizier    | [Enabling tools to model information processing in complex systems](#speaker-jospeh-lizier)|
