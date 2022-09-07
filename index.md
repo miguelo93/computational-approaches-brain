@@ -4,7 +4,7 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 #### <span style="color:red; text-align: center">****REGISTER HERE !!****</span>
 {: style="text-align: center;"}
-![Logo](logo1-modified.png){: .center-image}
+![Logo](images/logo1-modified.png){: .center-image}
 
 [Speakers](#speakers) - [Schedule](#schedule) - [Abstracts](#abstracts) - [Organizers](#organizers)
 {: style="text-align: center;"}
@@ -23,7 +23,7 @@ The event is organized within the "Sensation and Perception to Awareness: Leverh
 |       2:30-3:00pm       | Joseph Lizier    | [Enabling tools to model information processing in complex systems](#speaker-jospeh-lizier)|
 |       3:00-3:30pm       | Romaine Brette   | [Computation in the Brain](#speaker-romain-brette)|
 |       3:30-4:00pm       | Gael Varoquax    | [TBA](#speaker-gael-varoquaux)        |
-|       4:00-4:30pm       | BREAK            ||            |
+|       4:00-4:30pm       | BREAK            |            |
 |       4:30-5:00pm       | Konrad Kording   | [Causality in the Brain"](#speaker-konrad-kording)|
 |       5:00:5:30pm       | Jessica Flack    | [TBA](#speaker-jessica-flack)        |
 |       5:30-5:45pm       | Melanie Mitchell | [Why AI is Harder Than We Think](#speaker-melanie-mitchell)|
