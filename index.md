@@ -4,7 +4,6 @@
 ### 21st OCTOBER 2022
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 #### <span style="color:red; text-align: center"><a stlye="color:red;" href = "https://forms.gle/MnhZZwp8RRrwHFkf7"><strong style="color: #D00F0F">**REGISTER HERE**</strong></a></span>
->>>>>>> f452db4746b426131fe692350dc5cb51c2f18398
 {: style="text-align: center;"}
 ![Logo](images/logo1-modified.png){: .center-image}
 
