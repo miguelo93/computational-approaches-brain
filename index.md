@@ -113,7 +113,7 @@ Romain Brette is a theoretical neuroscientist in Paris who has worked in cellula
 {: style="text-align: center;"}
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 ### <span style="color:#5F4B66; text-align: center">Gaël Varoquaux (He/Him)</span>
-<img src="images/GaelVaroquaux.jpg" alt="drawing" class="center-image" style="width:200px;height:200px;"/>
+<img src="images/GaelVaroquaux-modified.png" alt="drawing" class="center-image" style="width:200px;height:200px;"/>
 
 **Talk title: TBA** 
 
